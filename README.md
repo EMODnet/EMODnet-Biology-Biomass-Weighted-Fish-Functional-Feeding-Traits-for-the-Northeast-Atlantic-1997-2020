@@ -30,44 +30,44 @@ Data for the biomass of fish species and size classes are available from multipl
 To demonstrate how biomass-weighted axis scores were generated, we provide some example survey data from the Greater North Sea collected for the International Otter Trawl Survey Quarter 1 between January to March in 2020 (‘example_survey_data.csv’). We provide taxonomic information for the survey data (‘trawl survey taxa.csv’) needed to append the feeding trait data. We also provide a link to the published feeding guild data (‘feeding guilds.csv’; https://data.cefas.co.uk/view/21771).
 
 Data description
-File = ‘example_survey_data.csv’
-FileName = name of file downloaded from: https://data.cefas.co.uk/view/21421 (Lynam & Ribeiro, 2022) where a full description of the data can be found.
-HaulID = unique haul identifier
-FishLength_cm = fish length in cm
-DensBiom_kg_Sqkm = biomass in kg wet weight per km2
-DensAbund_N_Sqkm = abundance per km2
-SciName = scientific name of observed taxa
-year = the year the sample was collected
-SweptArea_KM2 = swept area sampled in km2
-Gear = survey gear used
-Ship = ship used
-Month = the month the sample was collected
-Day = the day the sample was collected
-TimeShot = the time the sample was collected
-longitude = sample location in decimal degrees longitude
-latitude = sample location in decimal degrees latitude
-DensAbund_N_perhr = abundance per unit effort (in hours)
-DensBiom_kg_perhr = biomass in kg wet weight per unit effort (in hours)
-Survey_Acronym = survey acronym 
-ices_rectangle  = ICES statistical rectangle
-family = organism family
-species = organism species  
-bin_number = 20 equal size bins to categorise individual predator mass along a log10 transformed gradient from 0.1 micrograms to 190 tonnes
+File = ‘example_survey_data.csv’;
+FileName = name of file downloaded from: https://data.cefas.co.uk/view/21421 (Lynam & Ribeiro, 2022) where a full description of the data can be found;
+HaulID = unique haul identifier;
+FishLength_cm = fish length in cm;
+DensBiom_kg_Sqkm = biomass in kg wet weight per km2;
+DensAbund_N_Sqkm = abundance per km2;
+SciName = scientific name of observed taxa;
+year = the year the sample was collected;
+SweptArea_KM2 = swept area sampled in km2;
+Gear = survey gear used;
+Ship = ship used;
+Month = the month the sample was collected;
+Day = the day the sample was collected;
+TimeShot = the time the sample was collected;
+longitude = sample location in decimal degrees longitude;
+latitude = sample location in decimal degrees latitude;
+DensAbund_N_perhr = abundance per unit effort (in hours);
+DensBiom_kg_perhr = biomass in kg wet weight per unit effort (in hours);
+Survey_Acronym = survey acronym;
+ices_rectangle  = ICES statistical rectangle;
+family = organism family;
+species = organism species; 
+bin_number = 20 equal size bins to categorise individual predator mass along a log10 transformed gradient from 0.1 micrograms to 190 tonnes.
 
-File = ‘trawl survey taxa.csv’
-taxa = organism taxa
-worms_aphia_id = worms aphia identifier (see https://www.marinespecies.org/aphia.php?p=webservice) 
-functional_group = adult functional group of organism following Webb & Vanhoorne (2020) using the “worrms” package (Chamberlain, 2019).
-phylum = organism phylum
-class = organism class
-order = organism order
-family = organism family
-genus = organism genus  
-species = organism species  
-revised_taxa = updated taxonomy 
-LWRa = a values for length-weight calculation
-LWRb = b values for length-weight calculation
-LWRSource = source of a and b values for length-weight calculation
+File = ‘trawl survey taxa.csv’;
+taxa = organism taxa;
+worms_aphia_id = worms aphia identifier (see https://www.marinespecies.org/aphia.php?p=webservice); 
+functional_group = adult functional group of organism following Webb & Vanhoorne (2020) using the “worrms” package (Chamberlain, 2019);
+phylum = organism phylum;
+class = organism class;
+order = organism order;
+family = organism family;
+genus = organism genus; 
+species = organism species;
+revised_taxa = updated taxonomy; 
+LWRa = a values for length-weight calculation;
+LWRb = b values for length-weight calculation;
+LWRSource = source of a and b values for length-weight calculation.
 
 
 ## Data product
