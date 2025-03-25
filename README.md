@@ -108,7 +108,9 @@ Thompson, M.S.A. & Collingridge, K. (2025). Biomass-Weighted Fish Functional Fee
 Available to download in:
 
 Data: https://erddap.emodnet.eu/erddap/files/biology_9774_06d4_3b77_34fa/fish_functional_traits.nc
+
 Metadata: https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/6d617269-6e65-696e-666f-000000008774
+
 Viewer: is https://emodnet.ec.europa.eu/geoviewer/?layers=6d617269-6e65-696e-666f-000000008774:1:1&basemap=ebwbl&active=14162&bounds=-3951182.3440919546,5054282.709174126,2779203.24873914,9296761.440409869&filters=&projection=EPSG:3857
 
 
