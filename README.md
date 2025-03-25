@@ -1,13 +1,13 @@
-# {{Biomass-Weighted Fish Functional Feeding Traits for the Northeast Atlantic (1997-2020)}}
+# Biomass-Weighted Fish Functional Feeding Traits for the Northeast Atlantic (1997-2020)
 
 ## Introduction
 
-{{International efforts to assess the status of marine ecosystems have been hampered by insufficient observations of food web interactions across many species, their various life stages, and geographic ranges. We use a recently published fish stomach contents database for the Northeast Atlantic to infer functional feeding traits for fish species across a range of sizes observed in survey data from the Northeast Atlantic shelf seas. This synthesis of feeding and biomass information can be used to reveal spatial and temporal changes in ecosystem structure and functioning.}}
+International efforts to assess the status of marine ecosystems have been hampered by insufficient observations of food web interactions across many species, their various life stages, and geographic ranges. We use a recently published fish stomach contents database for the Northeast Atlantic to infer functional feeding traits for fish species across a range of sizes observed in survey data from the Northeast Atlantic shelf seas. This synthesis of feeding and biomass information can be used to reveal spatial and temporal changes in ecosystem structure and functioning.
 
 ## Directory structure
 
 ```
-{{directory_name}}/
+EMODnet-Biology-Biomass-Weighted-Fish-Functional-Feeding-Traits-for-the-Northeast-Atlantic-1997-2020/
 ├── analysis
 ├── data/
 │   ├── derived_data/
@@ -25,7 +25,7 @@
 
 ## Data series
 
-{{We draw on a fish stomach content data collation spanning the North Atlantic shelf seas, with important contributions from the Baltic, Barents and Norwegian Seas in the Arctic Ocean (Thompson et al., 2024)https://doi.org/10.14466/CefasDataHub.149). This collation contains observations from 944,129 fish stomachs collected between 1836 – 2020, representing 14,196 unique interactions between 227 predator species and 2158 prey taxa. These data were sourced from a combination of previously published and unpublished data including DAPSTOM (Pinnegar, 2019), ICES Year of the Stomach (Daan, 1981; ICES, 1997), the Northeast US continental shelf (Smith & Link, 2010), Northern Spanish shelf (Arroyo et al., 2017), Gulf of Cadiz (Torres et al., 2013), Swedish-, Icelandic-, Norwegian, French- (Cachera et al., 2017; Timmerman et al., 2020; Travers-Trolet, 2017; Verin, 2018) and German-led surveys (e.g., FishNet, https://www.nationalpark-wattenmeer.de/wissensbeitrag/fishnet/; BioConsult, 2023).
+We draw on a fish stomach content data collation spanning the North Atlantic shelf seas, with important contributions from the Baltic, Barents and Norwegian Seas in the Arctic Ocean (Thompson et al., 2024)https://doi.org/10.14466/CefasDataHub.149). This collation contains observations from 944,129 fish stomachs collected between 1836 – 2020, representing 14,196 unique interactions between 227 predator species and 2158 prey taxa. These data were sourced from a combination of previously published and unpublished data including DAPSTOM (Pinnegar, 2019), ICES Year of the Stomach (Daan, 1981; ICES, 1997), the Northeast US continental shelf (Smith & Link, 2010), Northern Spanish shelf (Arroyo et al., 2017), Gulf of Cadiz (Torres et al., 2013), Swedish-, Icelandic-, Norwegian, French- (Cachera et al., 2017; Timmerman et al., 2020; Travers-Trolet, 2017; Verin, 2018) and German-led surveys (e.g., FishNet, https://www.nationalpark-wattenmeer.de/wissensbeitrag/fishnet/; BioConsult, 2023).
 Data for the biomass of fish species and size classes are available from multiple surveys using the ICES database of trawl surveys (DATRAS) once quality-controlled and standardised following procedures detailed in Greenstreet and Moriarty (2017). We use the otter trawl survey data for the Northeast Atlantic shelf seas collected between 1997–2020 originally published on DATRAS but processed by Lynam & Ribeiro (2022). Catch records by taxonomic group and by size class (length categories) in terms of biomass and numbers of fish standardised to the area swept by the haul.
 To demonstrate how biomass-weighted axis scores were generated, we provide some example survey data from the Greater North Sea collected for the International Otter Trawl Survey Quarter 1 between January to March in 2020 (‘example_survey_data.csv’). We provide taxonomic information for the survey data (‘trawl survey taxa.csv’) needed to append the feeding trait data. We also provide a link to the published feeding guild data (‘feeding guilds.csv’; https://data.cefas.co.uk/view/21771).
 
@@ -68,19 +68,16 @@ revised_taxa = updated taxonomy
 LWRa = a values for length-weight calculation
 LWRb = b values for length-weight calculation
 LWRSource = source of a and b values for length-weight calculation
-}}
 
-```
-{{data_wfs_request}}
-```
 
 ## Data product
 
-{{This product is the result of collating and analysing fish stomach contents data from the North Atlantic and Arctic Oceans to classify fish into functional feeding guilds based on their diet. Non-metric multidimensional scaling (NMDS) analysis was used to provide information on the differences between fish species and size class feeding traits in relation to one-another. The NMDS analysis presents axis scores that offer a more nuanced perspective compared to categorical data (i.e. feeding guilds), of different predator feeding traits. In general terms, higher NMDS1 values = increasing predation on zooplankton; lower NMDS1 values = increasing predation on benthos; higher NMDS2 values = increasing predation on fish (and larger prey); lower NMDS2 values = smaller prey (more benthos and or plankton). This analysis is part of the process to classify feeding guilds based on predator stomach contents data. See figure S4 in https://essd.copernicus.org/preprints/essd-2024-102/essd-2024-102-supplement.pdf from (Thompson et al., 2024) for a pictorial depiction.  }}
+This product is the result of collating and analysing fish stomach contents data from the North Atlantic and Arctic Oceans to classify fish into functional feeding guilds based on their diet. Non-metric multidimensional scaling (NMDS) analysis was used to provide information on the differences between fish species and size class feeding traits in relation to one-another. The NMDS analysis presents axis scores that offer a more nuanced perspective compared to categorical data (i.e. feeding guilds), of different predator feeding traits. In general terms, higher NMDS1 values = increasing predation on zooplankton; lower NMDS1 values = increasing predation on benthos; higher NMDS2 values = increasing predation on fish (and larger prey); lower NMDS2 values = smaller prey (more benthos and or plankton). This analysis is part of the process to classify feeding guilds based on predator stomach contents data. See figure S4 in https://essd.copernicus.org/preprints/essd-2024-102/essd-2024-102-supplement.pdf from (Thompson et al., 2024) for a pictorial depiction.
 
 ## More information:
 
 ### References
+
 Arroyo, N. L., Preciado, I., López-López, L., Muñoz, I., & Punzón, A. (2017). Trophic mechanisms underlying bentho-demersal community recovery in the north-east Atlantic. Journal of Applied Ecology, 54(6), 1957–1967. https://doi.org/10.1111/1365-2664.12879
 BioConsult. (2023). Nahrungsnetzprojekt in den Küstengewässern Schleswig Holsteins mit Fokus auf Fischen – FishNet. Untersuchung und Auswertung zum Mageninhalt und Analyse stabiler Isotope von Benthos- und Fischarten im Rahmen des FishNet Projektes (AP2). Auftraggeber: Landesbetrieb für Küstenschutz, Nationalpark und Meeresschutz Schleswig-Holstein, Nationalparkverwaltung (LKN.SH), 70 S
 Cachera, M., Ernande, B., Villanueva, M. C., & Lefebvre, S. (2017). Individual diet variation in a marine fish assemblage: Optimal Foraging Theory, Niche Variation Hypothesis and functional identity. Journal of Sea Research, 120, 60–71. https://doi.org/https://doi.org/10.1016/j.seares.2016.08.004
@@ -106,7 +103,7 @@ Webb, T. J., & Vanhoorne, B. (2020). Linking dimensions of data on global marine
 
 This product should be cited as:
 
-{{Thompson, M.S.A. (2025). Biomass-Weighted Fish Functional Feeding Traits for the Northeast Atlantic (1997-2020). Integrated data products created under the European Marine Observation Data Network (EMODnet) Biology project CINEA/EMFAF/2022/3.5.2/SI2.895681, funded by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund.}}
+Thompson, M.S.A. (2025). Biomass-Weighted Fish Functional Feeding Traits for the Northeast Atlantic (1997-2020). Integrated data products created under the European Marine Observation Data Network (EMODnet) Biology project CINEA/EMFAF/2022/3.5.2/SI2.895681, funded by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund.
 
 Available to download in:
 
@@ -114,4 +111,4 @@ Available to download in:
 
 ### Authors
 
-{{Thompson, M.S.A.}}
+Murray S.A. Thompson
