@@ -76,6 +76,8 @@ This product is the result of collating and analysing fish stomach contents data
 
 ## More information:
 
+THIS INFORMATION IS LICENSED UNDER THE CONDITIONS OF THE OPEN GOVERNMENT LICENCE found at: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3
+
 ### References
 
 Arroyo, N. L., Preciado, I., López-López, L., Muñoz, I., & Punzón, A. (2017). Trophic mechanisms underlying bentho-demersal community recovery in the north-east Atlantic. Journal of Applied Ecology, 54(6), 1957–1967. https://doi.org/10.1111/1365-2664.12879
