@@ -1,0 +1,708 @@
+taxa,worms_aphia_id,functional_group,phylum,class,order,family,genus,species,revised_taxa,LWRa,LWRb,LWRSource
+Alloteuthis,138138,nekton,Mollusca,Cephalopoda,Myopsida,Loliginidae,Alloteuthis,NA,Alloteuthis,NA,NA,NA
+Alosa alosa,126413,fish,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,Alosa alosa,Alosa alosa,0.0049,3.2,FishBase
+Ammodytes tobianus,126752,fish,Chordata,Actinopteri,Perciformes,Ammodytidae,Ammodytes,Ammodytes tobianus,Ammodytes tobianus,0.0033,2.91,FishBase
+Anguilla anguilla,126281,fish,Chordata,Actinopteri,Anguilliformes,Anguillidae,Anguilla,Anguilla anguilla,Anguilla anguilla,9e-4,3.19,FishBase
+Argentina sphyraena,126716,fish,Chordata,Actinopteri,Argentiniformes,Argentinidae,Argentina,Argentina sphyraena,Argentina sphyraena,0.0043,3.139,FishBase
+Argyrosomus regius,127007,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sciaenidae,Argyrosomus,Argyrosomus regius,Argyrosomus regius,0.0151,2.86,FishBase
+Arnoglossus imperialis,127124,fish,Chordata,Actinopteri,Pleuronectiformes,Bothidae,Arnoglossus,Arnoglossus imperialis,Arnoglossus imperialis,0.0049,3.17,FishBase
+Arnoglossus laterna,127126,fish,Chordata,Actinopteri,Pleuronectiformes,Bothidae,Arnoglossus,Arnoglossus laterna,Arnoglossus laterna,0.0024,3.39,MS-S
+Arnoglossus thori,127128,fish,Chordata,Actinopteri,Pleuronectiformes,Bothidae,Arnoglossus,Arnoglossus thori,Arnoglossus thori,0.0069,3.13,FishBase
+Atherina presbyter,272030,fish,Chordata,Actinopteri,Atheriniformes,Atherinidae,Atherina,Atherina presbyter,Atherina presbyter,0.0045,3.18,FishBase
+Balistes capriscus,154721,fish,Chordata,Actinopteri,Tetraodontiformes,Balistidae,Balistes,Balistes capriscus,Balistes capriscus,0.0106,3.121,FishBase
+Belone belone,126375,fish,Chordata,Actinopteri,Beloniformes,Belonidae,Belone,Belone belone,Belone belone,7.9e-4,3.1835,FishBase
+Blennius ocellaris,126761,fish,Chordata,Actinopteri,Blenniiformes,Blenniidae,Blennius,Blennius ocellaris,Blennius ocellaris,0.0214,2.82,FishBase
+Boops boops,127047,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Boops,Boops boops,Boops boops,0.01015,3.019,FishBase
+Buenia jeffreysii,126872,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Buenia,Buenia jeffreysii,Buenia jeffreysii,0.0146,2.6867,English
+Buglossidium luteum,127153,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Buglossidium,Buglossidium luteum,Buglossidium luteum,0.00516,3.3357,FishBase
+Callionymus lyra,126792,fish,Chordata,Actinopteri,Callionymiformes,Callionymidae,Callionymus,Callionymus lyra,Callionymus lyra,0.0219,2.59,FishBase
+Callionymus maculatus,126793,fish,Chordata,Actinopteri,Callionymiformes,Callionymidae,Callionymus,Callionymus maculatus,Callionymus maculatus,0.0129,2.77,FishBase
+Callionymus reticulatus,126795,fish,Chordata,Actinopteri,Callionymiformes,Callionymidae,Callionymus,Callionymus reticulatus,Callionymus reticulatus,0.0191,2.47,FishBase
+Cancer pagurus,107276,macrobenthos,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer pagurus,Cancer pagurus,NA,NA,NA
+Capros aper,127419,fish,Chordata,Actinopteri,Acanthuriformes,Caproidae,Capros,Capros aper,Capros aper,0.0275,2.78,FishBase
+Cepola macrophthalma,126835,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Cepolidae,Cepola,Cepola macrophthalma,Cepola macrophthalma,0.0186,2.02,FishBase
+Chelidonichthys cuculus,127259,fish,Chordata,Actinopteri,Perciformes,Triglidae,Chelidonichthys,Chelidonichthys cuculus,Chelidonichthys cuculus,0.0066,3.14,FishBase
+Chelidonichthys lucerna,127262,fish,Chordata,Actinopteri,Perciformes,Triglidae,Chelidonichthys,Chelidonichthys lucerna,Chelidonichthys lucerna,0.01132,2.996,FishBase
+Chelidonichthys obscurus,127263,fish,Chordata,Actinopteri,Perciformes,Triglidae,Chelidonichthys,Chelidonichthys obscurus,Chelidonichthys obscurus,0.0044,3.21,FishBase
+Chelon labrosus,126977,fish,Chordata,Actinopteri,Mugiliformes,Mugilidae,Chelon,Chelon labrosus,Chelon labrosus,0.0083,3.14,FishBase
+Ciliata mustela,126448,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Ciliata,Ciliata mustela,Ciliata mustela,0.0027,3.19,MS-S
+Conger conger,126285,fish,Chordata,Actinopteri,Anguilliformes,Congridae,Conger,Conger conger,Conger conger,3.22e-4,3.377,FishBase
+Dasyatis pastinaca,105851,fish,Chordata,Elasmobranchii,Myliobatiformes,Dasyatidae,Dasyatis,Dasyatis pastinaca,Dasyatis pastinaca,0.0091,3.03,FishBase
+Dicentrarchus labrax,126975,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Moronidae,Dicentrarchus,Dicentrarchus labrax,Dicentrarchus labrax,0.009638,3.029,FishBase
+Dicentrarchus punctatus,126976,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Moronidae,Dicentrarchus,Dicentrarchus punctatus,Dicentrarchus punctatus,0.0018,3.44,FishBase
+Dicologlossa cuneata,127154,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Dicologlossa,Dicologlossa cuneata,Dicologlossa cuneata,0.0072,3.02,FishBase
+Dipturus batis,105869,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Dipturus,Dipturus batis,Dipturus batis,0.0108,3.079,FishBase
+Echiichthys vipera,150630,fish,Chordata,Actinopteri,Perciformes,Trachinidae,Echiichthys,Echiichthys vipera,Echiichthys vipera,0.0105,3.05,FishBase
+Enchelyopus cimbrius,126450,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Enchelyopus,Enchelyopus cimbrius,Enchelyopus cimbrius,0.0035,3.106,FishBase
+Engraulis encrasicolus,126426,fish,Chordata,Actinopteri,Clupeiformes,Engraulidae,Engraulis,Engraulis encrasicolus,Engraulis encrasicolus,0.0056,3.05,FishBase
+Eutrigla gurnardus,150637,fish,Chordata,Actinopteri,Perciformes,Triglidae,Eutrigla,Eutrigla gurnardus,Eutrigla gurnardus,0.00915,2.9998,FishBase
+Gadiculus,125731,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Gadiculus,NA,Gadiculus,0.01757841,2.7619,Mean_Species
+Gaidropsarus macrophthalmus,126456,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Gaidropsarus,Gaidropsarus macrophthalmus,Gaidropsarus macrophthalmus,0.00634,2.95,FishBase
+Gaidropsarus mediterraneus,126457,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Gaidropsarus,Gaidropsarus mediterraneus,Gaidropsarus mediterraneus,0.0051,2.9986,FishBase
+Gaidropsarus vulgaris,126458,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Gaidropsarus,Gaidropsarus vulgaris,Gaidropsarus vulgaris,0.0044,3.21,FishBase
+Glyptocephalus cynoglossus,127136,fish,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Glyptocephalus,Glyptocephalus cynoglossus,Glyptocephalus cynoglossus,0.0019,3.35,FishBase
+Gobius niger,126892,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Gobius,Gobius niger,Gobius niger,0.011,3.03,FishBase
+Gymnammodytes semisquamatus,126754,fish,Chordata,Actinopteri,Perciformes,Ammodytidae,Gymnammodytes,Gymnammodytes semisquamatus,Gymnammodytes semisquamatus,6e-4,3.476,FishBase
+Homarus gammarus,107253,megabenthos,Arthropoda,Malacostraca,Decapoda,Nephropidae,Homarus,Homarus gammarus,Homarus gammarus,NA,NA,NA
+Hyperoplus,125911,fish,Chordata,Actinopteri,Perciformes,Ammodytidae,Hyperoplus,NA,Hyperoplus,0.004363486,2.87525,Mean_Species
+Hyperoplus immaculatus,126755,fish,Chordata,Actinopteri,Perciformes,Ammodytidae,Hyperoplus,Hyperoplus immaculatus,Hyperoplus immaculatus,0.0056,2.8225,English
+Hyperoplus lanceolatus,126756,fish,Chordata,Actinopteri,Perciformes,Ammodytidae,Hyperoplus,Hyperoplus lanceolatus,Hyperoplus lanceolatus,0.0034,2.928,FishBase
+Illex coindetii,140621,nekton,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Illex,Illex coindetii,Illex coindetii,NA,NA,NA
+Lepadogaster lepadogaster,126518,fish,Chordata,Actinopteri,Gobiesociformes,Gobiesocidae,Lepadogaster,Lepadogaster lepadogaster,Lepadogaster lepadogaster,0.0287,3,FishBase
+Lepidorhombus boscii,127145,fish,Chordata,Actinopteri,Pleuronectiformes,Scophthalmidae,Lepidorhombus,Lepidorhombus boscii,Lepidorhombus boscii,0.0046,3.13,FishBase
+Lepidorhombus whiffiagonis,127146,fish,Chordata,Actinopteri,Pleuronectiformes,Scophthalmidae,Lepidorhombus,Lepidorhombus whiffiagonis,Lepidorhombus whiffiagonis,0.0043,3.13,FishBase
+Lesueurigobius friesii,126904,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Lesueurigobius,Lesueurigobius friesii,Lesueurigobius friesii,0.0062,3.04,FishBase
+Leucoraja fullonica,105874,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Leucoraja,Leucoraja fullonica,Leucoraja fullonica,0.00211,3.163,MS-S
+Leucoraja naevus,105876,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Leucoraja,Leucoraja naevus,Leucoraja naevus,0.0019,3.28,FishBase
+Loligo,138139,nekton,Mollusca,Cephalopoda,Myopsida,Loliginidae,Loligo,NA,Loligo,NA,NA,NA
+Loligo forbesi,140270,nekton,Mollusca,Cephalopoda,Myopsida,Loliginidae,Loligo,Loligo forbesii,Loligo forbesii,NA,NA,NA
+Loligo vulgaris,140271,nekton,Mollusca,Cephalopoda,Myopsida,Loliginidae,Loligo,Loligo vulgaris,Loligo vulgaris,NA,NA,NA
+Lophius budegassa,126554,fish,Chordata,Actinopteri,Lophiiformes,Lophiidae,Lophius,Lophius budegassa,Lophius budegassa,0.0155,2.96,FishBase
+Lophius piscatorius,126555,fish,Chordata,Actinopteri,Lophiiformes,Lophiidae,Lophius,Lophius piscatorius,Lophius piscatorius,0.0288,2.81,FishBase
+Maja brachydactyla,107347,benthos,Arthropoda,Malacostraca,Decapoda,Majidae,Maja,Maja brachydactyla,Maja brachydactyla,NA,NA,NA
+Maurolicus muelleri,127312,fish,Chordata,Actinopteri,Stomiiformes,Sternoptychidae,Maurolicus,Maurolicus muelleri,Maurolicus muelleri,0.00164,3.961,FishBase
+Melanogrammus aeglefinus,126437,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Melanogrammus,Melanogrammus aeglefinus,Melanogrammus aeglefinus,0.0074,3.06,FishBase
+Merlangius merlangus,126438,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Merlangius,Merlangius merlangus,Merlangius merlangus,0.0059,3.08,FishBase
+Merluccius merluccius,126484,fish,Chordata,Actinopteri,Gadiformes,Merlucciidae,Merluccius,Merluccius merluccius,Merluccius merluccius,0.0046,3.12,FishBase
+Microchirus variegatus,274304,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Microchirus,Microchirus variegatus,Microchirus variegatus,0.0074,3.12,FishBase
+Micromesistius poutassou,126439,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Micromesistius,Micromesistius poutassou,Micromesistius poutassou,0.0041,3.15,FishBase
+Microstomus kitt,127140,fish,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Microstomus,Microstomus kitt,Microstomus kitt,0.0083,3.08,FishBase
+Molva molva,126461,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Molva,Molva molva,Molva molva,0.004,3.07,FishBase
+Mullus surmuletus,126986,fish,Chordata,Actinopteri,Mulliformes,Mullidae,Mullus,Mullus surmuletus,Mullus surmuletus,0.0081,3.16,FishBase
+Mustelus asterias,105821,fish,Chordata,Elasmobranchii,Carcharhiniformes,Triakidae,Mustelus,Mustelus asterias,Mustelus asterias,0.0018,3.13,FishBase
+Nephrops norvegicus,107254,megabenthos,Arthropoda,Malacostraca,Decapoda,Nephropidae,Nephrops,Nephrops norvegicus,Nephrops norvegicus,NA,NA,NA
+Pagellus acarne,127057,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Pagellus,Pagellus acarne,Pagellus acarne,0.0105,3.15,FishBase
+Pagellus bogaraveo,127059,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Pagellus,Pagellus bogaraveo,Pagellus bogaraveo,0.0126,3.07,FishBase
+Pagellus erythrinus,127060,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Pagellus,Pagellus erythrinus,Pagellus erythrinus,0.0178,2.97,FishBase
+Pagrus pagrus,127063,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Pagrus,Pagrus pagrus,Pagrus pagrus,0.0204,2.98,FishBase
+Palinurus elephas,107703,megabenthos,Arthropoda,Malacostraca,Decapoda,Palinuridae,Palinurus,Palinurus elephas,Palinurus elephas,NA,NA,NA
+Pecten maximus,140712,benthos,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten,Pecten maximus,Pecten maximus,NA,NA,NA
+Pegusa lascaris,127156,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Pegusa,Pegusa lascaris,Pegusa lascaris,0.0072,3.14,FishBase
+Phycis blennoides,126501,fish,Chordata,Actinopteri,Gadiformes,Phycidae,Phycis,Phycis blennoides,Phycis blennoides,0.0037,3.2,FishBase
+Pleuronectes platessa,127143,fish,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Pleuronectes,Pleuronectes platessa,Pleuronectes platessa,0.0093,3.03,FishBase
+Pollachius pollachius,126440,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Pollachius,Pollachius pollachius,Pollachius pollachius,0.0059,3.12,FishBase
+Pomatoschistus lozanoi,126925,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Pomatoschistus,Pomatoschistus lozanoi,Pomatoschistus lozanoi,0.01,3.04,FishBase
+Pomatoschistus microps,126927,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Pomatoschistus,Pomatoschistus microps,Pomatoschistus microps,0.0075,3.18,FishBase
+Pomatoschistus minutus,126928,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Pomatoschistus,Pomatoschistus minutus,Pomatoschistus minutus,0.0052,3.22,FishBase
+Raja brachyura,367297,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,Raja brachyura,Raja brachyura,0.0032,3.2,FishBase
+Raja clavata,105883,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,Raja clavata,Raja clavata,0.0022,3.21,FishBase
+Raja microocellata,105885,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,Raja microocellata,Raja microocellata,0.0049,3.12,FishBase
+Raja montagui,105887,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,Raja montagui,Raja montagui,0.0025,3.31,FishBase
+Raja undulata,105891,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,Raja undulata,Raja undulata,0.0045,3.07,FishBase
+Sardina pilchardus,126421,fish,Chordata,Actinopteri,Clupeiformes,Clupeidae,Sardina,Sardina pilchardus,Sardina pilchardus,0.0054,3.14,FishBase
+Scomber scombrus,127023,fish,Chordata,Actinopteri,Scombriformes,Scombridae,Scomber,Scomber scombrus,Scomber scombrus,0.0055,3.13,FishBase
+Scophthalmus maximus,127149,fish,Chordata,Actinopteri,Pleuronectiformes,Scophthalmidae,Scophthalmus,Scophthalmus maximus,Scophthalmus maximus,0.011,3.1,FishBase
+Scophthalmus rhombus,127150,fish,Chordata,Actinopteri,Pleuronectiformes,Scophthalmidae,Scophthalmus,Scophthalmus rhombus,Scophthalmus rhombus,0.0138,3.01,FishBase
+Scorpaena notata,127246,fish,Chordata,Actinopteri,Perciformes,Scorpaenidae,Scorpaena,Scorpaena notata,Scorpaena notata,0.0174,3.03,FishBase
+Scorpaena porcus,127247,fish,Chordata,Actinopteri,Perciformes,Scorpaenidae,Scorpaena,Scorpaena porcus,Scorpaena porcus,0.0174,3.04,FishBase
+Scyliorhinus canicula,105814,fish,Chordata,Elasmobranchii,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus canicula,Scyliorhinus canicula,0.0014,3.22,FishBase
+Sepia,138477,benthos,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia,NA,Sepia,NA,NA,NA
+Sepia elegans,141443,benthos,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia,Sepia elegans,Sepia elegans,NA,NA,NA
+Sepia officinalis,141444,benthos,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia,Sepia officinalis,Sepia officinalis,NA,NA,NA
+Sepia orbignyana,141445,benthos,Mollusca,Cephalopoda,Sepiida,Sepiidae,Sepia,Sepia orbignyana,Sepia orbignyana,NA,NA,NA
+Sepietta oweniana,141452,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Sepietta,Sepietta oweniana,Sepietta oweniana,NA,NA,NA
+Sepiola,138483,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Sepiola,NA,Sepiola,NA,NA,NA
+Solea senegalensis,127159,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Solea,Solea senegalensis,Solea senegalensis,0.0078,3.07,FishBase
+Solea solea,127160,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Solea,Solea solea,Solea solea,0.0062,3.13,FishBase
+Sparus aurata,151523,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Sparus,Sparus aurata,Sparus aurata,0.0151,2.99,FishBase
+Spondyliosoma cantharus,127066,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Spondyliosoma,Spondyliosoma cantharus,Spondyliosoma cantharus,0.0138,3.03,FishBase
+Sprattus sprattus,126425,fish,Chordata,Actinopteri,Clupeiformes,Clupeidae,Sprattus,Sprattus sprattus,Sprattus sprattus,0.0055,3.06,FishBase
+Symphodus (Crenilabrus) bailloni,273566,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Labridae,Symphodus,Symphodus bailloni,Symphodus bailloni,0.0123,3.11,FishBase
+Syngnathus,126227,fish,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Syngnathus,NA,Syngnathus,1.81712e-4,3.28,Mean_Species
+Syngnathus rostellatus,127389,fish,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus rostellatus,Syngnathus rostellatus,1e-4,3.53,IMARES
+Todarodes sagittatus,140624,nekton,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Todarodes,Todarodes sagittatus,Todarodes sagittatus,NA,NA,NA
+Todaropsis eblanae,140625,nekton,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Todaropsis,Todaropsis eblanae,Todaropsis eblanae,NA,NA,NA
+Torpedo (Torpedo) marmorata,271684,fish,Chordata,Elasmobranchii,Torpediniformes,Torpedinidae,Torpedo,Torpedo marmorata,Torpedo marmorata,0.0275,2.9,FishBase
+Trachinus draco,127082,fish,Chordata,Actinopteri,Perciformes,Trachinidae,Trachinus,Trachinus draco,Trachinus draco,0.0059,3.08,FishBase
+Trachurus mediterraneus,126820,fish,Chordata,Actinopteri,Carangiformes,Carangidae,Trachurus,Trachurus mediterraneus,Trachurus mediterraneus,0.0105,2.97,FishBase
+Trachurus trachurus,126822,fish,Chordata,Actinopteri,Carangiformes,Carangidae,Trachurus,Trachurus trachurus,Trachurus trachurus,0.0087,2.99,FishBase
+Trigla lyra,127266,fish,Chordata,Actinopteri,Perciformes,Triglidae,Trigla,Trigla lyra,Trigla lyra,0.011,2.94,FishBase
+Trisopterus luscus,126445,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Trisopterus,Trisopterus luscus,Trisopterus luscus,0.0079,3.15,FishBase
+Trisopterus minutus,126446,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Trisopterus,Trisopterus minutus,Trisopterus minutus,0.0072,3.13,FishBase
+Umbrina canariensis,127011,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sciaenidae,Umbrina,Umbrina canariensis,Umbrina canariensis,0.0086,3.123,FishBase
+Zeugopterus punctatus,127151,fish,Chordata,Actinopteri,Pleuronectiformes,Scophthalmidae,Zeugopterus,Zeugopterus punctatus,Zeugopterus punctatus,0.0139,3.146,FishBase
+Zeugopterus regius,236488,fish,Chordata,Actinopteri,Pleuronectiformes,Scophthalmidae,Zeugopterus,Zeugopterus regius,Zeugopterus regius,0.0129,3.2052,English
+Zeus faber,127427,fish,Chordata,Actinopteri,Zeiformes,Zeidae,Zeus,Zeus faber,Zeus faber,0.0234,2.89,FishBase
+Acantholabrus palloni,126957,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Labridae,Acantholabrus,Acantholabrus palloni,Acantholabrus palloni,0.0108,3.074,FishBase
+Alosa fallax,126415,fish,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,Alosa fallax,Alosa fallax,0.0047,3.11,FishBase
+Ammodytes marinus,126751,fish,Chordata,Actinopteri,Perciformes,Ammodytidae,Ammodytes,Ammodytes marinus,Ammodytes marinus,0.0017,3.21,FishBase
+Aphanopus carbo,127085,fish,Chordata,Actinopteri,Scombriformes,Trichiuridae,Aphanopus,Aphanopus carbo,Aphanopus carbo,3.8e-4,3.27,FishBase
+Aphia minuta,126868,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Aphia,Aphia minuta,Aphia minuta,8e-4,3.53,FishBase
+Arctozenus risso,126352,fish,Chordata,Actinopteri,Aulopiformes,Paralepididae,Arctozenus,Arctozenus risso,Arctozenus risso,0.00324,3.08,FB_Baysian_(Sub)family-body shape
+Argentina silus,126715,fish,Chordata,Actinopteri,Argentiniformes,Argentinidae,Argentina,Argentina silus,Argentina silus,0.0039,3.203,FishBase
+Argyropelecus,126196,fish,Chordata,Actinopteri,Stomiiformes,Sternoptychidae,Argyropelecus,NA,Argyropelecus,0.01834574,3,Mean_Species
+Argyropelecus hemigymnus,127309,fish,Chordata,Actinopteri,Stomiiformes,Sternoptychidae,Argyropelecus,Argyropelecus hemigymnus,Argyropelecus hemigymnus,0.0182,3,FB_Baysian_(Sub)family-body shape
+Argyropelecus olfersii,274967,fish,Chordata,Actinopteri,Stomiiformes,Sternoptychidae,Argyropelecus,Argyropelecus olfersii,Argyropelecus olfersii,0.01879,3,FishBase
+Bathysolea profundicola,127152,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Bathysolea,Bathysolea profundicola,Bathysolea profundicola,0.00389,3.14,FB_Baysian_(Sub)family-body shape
+Benthosema glaciale,126580,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Benthosema,Benthosema glaciale,Benthosema glaciale,0.01023,3.11,FB_Baysian_(Sub)family-body shape
+Beryx decadactylus,126394,fish,Chordata,Actinopteri,Beryciformes,Berycidae,Beryx,Beryx decadactylus,Beryx decadactylus,0.0151,3.13,FishBase
+Beryx splendens,126395,fish,Chordata,Actinopteri,Beryciformes,Berycidae,Beryx,Beryx splendens,Beryx splendens,0.022,3.013,FishBase
+Brama brama,126783,fish,Chordata,Actinopteri,Scombriformes,Bramidae,Brama,Brama brama,Brama brama,0.00597,3.288,FishBase
+Callionymus,125930,fish,Chordata,Actinopteri,Callionymiformes,Callionymidae,Callionymus,NA,Callionymus,0.01601794,2.66,Mean_Species
+Centrolabrus exoletus,126961,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Labridae,Centrolabrus,Centrolabrus exoletus,Centrolabrus exoletus,0.0047,3.23,FishBase
+Centroscyllium fabricii,105906,fish,Chordata,Elasmobranchii,Squaliformes,Etmopteridae,Centroscyllium,Centroscyllium fabricii,Centroscyllium fabricii,9e-4,3.42,FishBase
+Ceratoscopelus maderensis,126585,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Ceratoscopelus,Ceratoscopelus maderensis,Ceratoscopelus maderensis,0.00537,3.08,FB_Baysian_(Sub)family-body shape
+Chimaera monstrosa,105824,fish,Chordata,Holocephali,Chimaeriformes,Chimaeridae,Chimaera,Chimaera monstrosa,Chimaera monstrosa,0.0015,3.11,FishBase
+Chlorophthalmus agassizi,126336,fish,Chordata,Actinopteri,Aulopiformes,Chlorophthalmidae,Chlorophthalmus,Chlorophthalmus agassizi,Chlorophthalmus agassizi,0.00786,2.909,FishBase
+Clupea harengus,126417,fish,Chordata,Actinopteri,Clupeiformes,Clupeidae,Clupea,Clupea harengus,Clupea harengus,0.0069,3.04,FishBase
+Coelorinchus caelorhincus,398381,fish,Chordata,Actinopteri,Gadiformes,Macrouridae,Coelorinchus,Coelorinchus caelorhincus,Coelorinchus caelorhincus,0.00219,3.106,FishBase
+Coryphaenoides rupestris,158960,fish,Chordata,Actinopteri,Gadiformes,Macrouridae,Coryphaenoides,Coryphaenoides rupestris,Coryphaenoides rupestris,0.0017,3.16,Modelled_Family
+Crystallogobius linearis,126878,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Crystallogobius,Crystallogobius linearis,Crystallogobius linearis,0.01,2.94,IMARES
+Ctenolabrus rupestris,126964,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Labridae,Ctenolabrus,Ctenolabrus rupestris,Ctenolabrus rupestris,0.01,3,FishBase
+Cymbulia peronii,139494,zooplankton,Mollusca,Gastropoda,Pteropoda,Cymbuliidae,Cymbulia,Cymbulia peronii,Cymbulia peronii,NA,NA,NA
+Cyttopsis rosea,127425,fish,Chordata,Actinopteri,Zeiformes,Parazenidae,Cyttopsis,Cyttopsis rosea,Cyttopsis rosea,0.01995,3.01,FB_Baysian_Body shape
+Dalatias licha,105910,fish,Chordata,Elasmobranchii,Squaliformes,Dalatiidae,Dalatias,Dalatias licha,Dalatias licha,0.00363,3.12,FB_Baysian_(Sub)family-body shape
+Deania calcea,105903,fish,Chordata,Elasmobranchii,Squaliformes,Centrophoridae,Deania,Deania calcea,Deania calcea,0.0012,3.26,FishBase
+Deania profundorum,105905,fish,Chordata,Elasmobranchii,Squaliformes,Centrophoridae,Deania,Deania profundorum,Deania profundorum,0.00161,3.205,FishBase
+Diaphus,125819,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Diaphus,NA,Diaphus,0.007179927,3.0445,Mean_Species
+Diplodus vulgaris,127054,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Diplodus,Diplodus vulgaris,Diplodus vulgaris,0.0129,3.11,FishBase
+Dipturus,105762,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Dipturus,NA,Dipturus,0.002740341,3.24225,Mean_Species
+Echiodon drummondii,126663,fish,Chordata,Actinopteri,Ophidiiformes,Carapidae,Echiodon,Echiodon drummondii,Echiodon drummondii,0.01,2.34,MS-S
+Entelurus aequoreus,127379,fish,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Entelurus,Entelurus aequoreus,Entelurus aequoreus,8e-4,2.5939,English
+Etmopterus spinax,105913,fish,Chordata,Elasmobranchii,Squaliformes,Etmopteridae,Etmopterus,Etmopterus spinax,Etmopterus spinax,0.0026,3.15,FishBase
+Gadiculus argenteus,126435,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Gadiculus,Gadiculus argenteus,Gadiculus argenteus,0.003829,3.321,FishBase
+Gadus morhua,126436,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Gadus,Gadus morhua,Gadus morhua,0.0079,3.05,FishBase
+Gaidropsarus biscayensis,126452,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Gaidropsarus,Gaidropsarus biscayensis,Gaidropsarus biscayensis,0.00407,3.09,FB_Baysian_(Sub)family-body shape
+Galeorhinus galeus,105820,fish,Chordata,Elasmobranchii,Carcharhiniformes,Triakidae,Galeorhinus,Galeorhinus galeus,Galeorhinus galeus,0.0047,2.994,FishBase
+Galeus melastomus,105812,fish,Chordata,Elasmobranchii,Carcharhiniformes,Pentanchidae,Galeus,Galeus melastomus,Galeus melastomus,0.0034,2.96,FishBase
+Gobiidae,125537,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,NA,NA,Gobiidae,0.007087382,3.103394118,Mean_Species
+Grunowia sinuata,622706,phytoplankton,Ochrophyta,Bacillariophyceae,NA,NA,Grunowia,Grunowia sinuata,Grunowia sinuata,NA,NA,NA
+Halargyreus johnsonii,126489,fish,Chordata,Actinopteri,Gadiformes,Moridae,Halargyreus,Halargyreus johnsonii,Halargyreus johnsonii,0.0038,3.12,FB_Baysian_(Sub)family-body shape
+Helicolenus dactylopterus,127251,fish,Chordata,Actinopteri,Perciformes,Sebastidae,Helicolenus,Helicolenus dactylopterus,Helicolenus dactylopterus,0.0123,3.1,FishBase
+Hexanchus griseus,105833,fish,Chordata,Elasmobranchii,Hexanchiformes,Hexanchidae,Hexanchus,Hexanchus griseus,Hexanchus griseus,0,3.6786,Scottish
+Hippocampus guttulatus,154776,fish,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Hippocampus,Hippocampus guttulatus,Hippocampus guttulatus,0.0032,2.9,FishBase
+Hippocampus hippocampus,127380,fish,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Hippocampus,Hippocampus hippocampus,Hippocampus hippocampus,0.0023,3,FishBase
+Ijimaia loppei,126330,fish,Chordata,Actinopteri,Ateleopodiformes,Ateleopodidae,Ijimaia,Ijimaia loppei,Ijimaia loppei,NA,NA,NA
+Labrus bergylta,126965,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Labridae,Labrus,Labrus bergylta,Labrus bergylta,0.0081,3.16,FishBase
+Labrus mixtus,151501,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Labridae,Labrus,Labrus mixtus,Labrus mixtus,0.0049,3.28,FishBase
+Lampanyctus crocodilus,126612,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lampanyctus,Lampanyctus crocodilus,Lampanyctus crocodilus,0.0051,2.98,FishBase
+Lepidion eques,126493,fish,Chordata,Actinopteri,Gadiformes,Moridae,Lepidion,Lepidion eques,Lepidion eques,9e-4,3.54,FishBase
+Lepidopus caudatus,127088,fish,Chordata,Actinopteri,Scombriformes,Trichiuridae,Lepidopus,Lepidopus caudatus,Lepidopus caudatus,4.05e-4,3.1226,FishBase
+Lepidotrigla dieuzeidei,127265,fish,Chordata,Actinopteri,Perciformes,Triglidae,Lepidotrigla,Lepidotrigla dieuzeidei,Lepidotrigla dieuzeidei,0.0091,3.1,FishBase
+Lesueurigobius,125992,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Lesueurigobius,NA,Lesueurigobius,0.006445152,3.0805,Mean_Species
+Leucoraja circularis,105873,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Leucoraja,Leucoraja circularis,Leucoraja circularis,0.00242,3.175,MS-S
+Limanda limanda,127139,fish,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Limanda,Limanda limanda,Limanda limanda,0.0065,3.15,FishBase
+Lithognathus mormyrus,127055,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Lithognathus,Lithognathus mormyrus,Lithognathus mormyrus,0.0135,3.02,FishBase
+Loligo forbesii,140270,nekton,Mollusca,Cephalopoda,Myopsida,Loliginidae,Loligo,Loligo forbesii,Loligo forbesii,NA,NA,NA
+Macroparalepis affinis,126356,fish,Chordata,Actinopteri,Aulopiformes,Paralepididae,Macroparalepis,Macroparalepis affinis,Macroparalepis affinis,0.00324,3.08,FB_Baysian_(Sub)family-body shape
+Macroramphosus scolopax,127378,fish,Chordata,Actinopteri,Syngnathiformes,Centriscidae,Macroramphosus,Macroramphosus scolopax,Macroramphosus scolopax,0.0087,2.83,FishBase
+Macrourus berglax,126472,fish,Chordata,Actinopteri,Gadiformes,Macrouridae,Macrourus,Macrourus berglax,Macrourus berglax,0.012,2.93,FishBase
+Malacocephalus laevis,272392,fish,Chordata,Actinopteri,Gadiformes,Macrouridae,Malacocephalus,Malacocephalus laevis,Malacocephalus laevis,0.00411,2.8716,MS-S
+Microchirus,126129,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Microchirus,NA,Microchirus,0.01105173,3.03,Mean_Species
+Mola mola,127405,fish,Chordata,Actinopteri,Tetraodontiformes,Molidae,Mola,Mola mola,Mola mola,0.0454,3.05,FishBase
+Molva dypterygia,126459,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Molva,Molva dypterygia,Molva dypterygia,0.00191,3.149,FishBase
+Molva macrophthalma,126460,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Molva,Molva macrophthalma,Molva macrophthalma,9e-4,3.24,FishBase
+Mora moro,126497,fish,Chordata,Actinopteri,Gadiformes,Moridae,Mora,Mora moro,Mora moro,0.0044,3.22,FishBase
+Myctophidae,125498,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,NA,NA,Myctophidae,0.007762067,3.047058824,Mean_Species
+Myctophum,125829,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Myctophum,NA,Myctophum,0.00804,3,Mean_Species
+Myctophum punctatum,126627,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Myctophum,Myctophum punctatum,Myctophum punctatum,0.00804,3,FishBase
+Myliobatis aquila,105860,fish,Chordata,Elasmobranchii,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis aquila,Myliobatis aquila,0.04997,2.4589,FishBase/MS-S
+Naucrates ductor,126811,fish,Chordata,Actinopteri,Carangiformes,Carangidae,Naucrates,Naucrates ductor,Naucrates ductor,0.0147,3.04,FishBase
+Nerophis lumbriciformis,127383,fish,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Nerophis,Nerophis lumbriciformis,Nerophis lumbriciformis,2e-4,2.749,Modelled_Genus
+Nezumia aequalis,126473,fish,Chordata,Actinopteri,Gadiformes,Macrouridae,Nezumia,Nezumia aequalis,Nezumia aequalis,0.00376,3,FishBase
+Nezumia sclerorhynchus,126475,fish,Chordata,Actinopteri,Gadiformes,Macrouridae,Nezumia,Nezumia sclerorhynchus,Nezumia sclerorhynchus,9e-4,3.233,FishBase
+Notoscopelus kroyeri,272728,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Notoscopelus,Notoscopelus kroyeri,Notoscopelus kroyeri,0.01,3,FishBase
+Ophidion barbatum,126675,fish,Chordata,Actinopteri,Ophidiiformes,Ophidiidae,Ophidion,Ophidion barbatum,Ophidion barbatum,0.0027,3.183,FishBase
+Pagellus,126079,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Pagellus,NA,Pagellus,0.01388863,3.055,Mean_Species
+Pagellus bellottii,127058,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Pagellus,Pagellus bellottii,Pagellus bellottii,0.0158,3.03,FishBase
+Palinurus mauritanicus,107704,megabenthos,Arthropoda,Malacostraca,Decapoda,Palinuridae,Palinurus,Palinurus mauritanicus,Palinurus mauritanicus,NA,NA,NA
+Parablennius gattorugine,126770,fish,Chordata,Actinopteri,Blenniiformes,Blenniidae,Parablennius,Parablennius gattorugine,Parablennius gattorugine,0.0093,3.12,FishBase
+Platichthys flesus,127141,fish,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Platichthys,Platichthys flesus,Platichthys flesus,0.0093,3.05,FishBase
+Pleurobrachia pileus,106386,macroplankton,Ctenophora,Tentaculata,Cydippida,Pleurobrachiidae,Pleurobrachia,Pleurobrachia pileus,Pleurobrachia pileus,NA,NA,NA
+Pollachius virens,126441,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Pollachius,Pollachius virens,Pollachius virens,0.0095,2.99,FishBase
+Polymetme corythaeola,127300,fish,Chordata,Actinopteri,Stomiiformes,Phosichthyidae,Polymetme,Polymetme corythaeola,Polymetme corythaeola,0.00337,3.116,FishBase
+Polymetme thaeocoryla,127301,fish,Chordata,Actinopteri,Stomiiformes,Phosichthyidae,Polymetme,Polymetme thaeocoryla,Polymetme thaeocoryla,0.0038,3.12,FB_Baysian_(Sub)family-body shape
+Polyprion americanus,126998,fish,Chordata,Actinopteri,Acropomatiformes,Polyprionidae,Polyprion,Polyprion americanus,Polyprion americanus,0.0195,2.96,FishBase
+Pomatoschistus,125999,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Pomatoschistus,NA,Pomatoschistus,0.007515513,3.14,Mean_Species
+Pomatoschistus norvegicus,126929,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Pomatoschistus,Pomatoschistus norvegicus,Pomatoschistus norvegicus,0.00891,3.07,FB_Baysian_(Sub)family-body shape
+Raniceps raninus,126442,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Raniceps,Raniceps raninus,Raniceps raninus,0.0062,3.267,FishBase
+Salpidae,137217,zooplankton,Chordata,Thaliacea,Salpida,Salpidae,NA,NA,Salpidae,NA,NA,NA
+Salpinae,720267,zooplankton,Chordata,Thaliacea,Salpida,Salpidae,NA,NA,Salpidae,NA,NA,NA
+Sarda sarda,127021,fish,Chordata,Actinopteri,Scombriformes,Scombridae,Sarda,Sarda sarda,Sarda sarda,0.0043,3.14,FishBase
+Scomber colias,151174,fish,Chordata,Actinopteri,Scombriformes,Scombridae,Scomber,Scomber colias,Scomber colias,0.0042,3.27,FishBase
+Scomber japonicus,127022,fish,Chordata,Actinopteri,Scombriformes,Scombridae,Scomber,Scomber japonicus,Scomber japonicus,NA,NA,NA
+Scorpaena loppei,127244,fish,Chordata,Actinopteri,Perciformes,Scorpaenidae,Scorpaena,Scorpaena loppei,Scorpaena loppei,0.0081,3.33,FishBase
+Scorpaena scrofa,127248,fish,Chordata,Actinopteri,Perciformes,Scorpaenidae,Scorpaena,Scorpaena scrofa,Scorpaena scrofa,0.0209,2.97,FishBase
+Scyliorhinus stellaris,105815,fish,Chordata,Elasmobranchii,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus stellaris,Scyliorhinus stellaris,0.0049,2.96,MS-S
+Scymnodon ringens,105918,fish,Chordata,Elasmobranchii,Squaliformes,Somniosidae,Scymnodon,Scymnodon ringens,Scymnodon ringens,0.0043,3.12,FishBase
+Serranus cabrilla,127041,fish,Chordata,Actinopteri,Perciformes,Serranidae,Serranus,Serranus cabrilla,Serranus cabrilla,0.017,2.86,FishBase
+Serranus hepatus,127042,fish,Chordata,Actinopteri,Perciformes,Serranidae,Serranus,Serranus hepatus,Serranus hepatus,0.0145,3.06,FishBase
+Serranus scriba,127043,fish,Chordata,Actinopteri,Perciformes,Serranidae,Serranus,Serranus scriba,Serranus scriba,0.0112,3.06,FishBase
+Soestia zonaria,137275,zooplankton,Chordata,Thaliacea,Salpida,Salpidae,Soestia,Soestia zonaria,Soestia zonaria,NA,NA,NA
+Spratelloides lewisi,272278,fish,Chordata,Actinopteri,Clupeiformes,Clupeidae,Spratelloides,Spratelloides lewisi,Spratelloides lewisi,0.00513,3.14,FB_Baysian_Spp&(Sub)family-body shape
+Squalus acanthias,105923,fish,Chordata,Elasmobranchii,Squaliformes,Squalidae,Squalus,Squalus acanthias,Squalus acanthias,0.003,3.07,FishBase
+Symphodus melops,273571,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Labridae,Symphodus,Symphodus melops,Symphodus melops,0.0071,3.18,FishBase
+Symphodus roissali,273573,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Labridae,Symphodus,Symphodus roissali,Symphodus roissali,0.0151,3.04,FishBase
+Synaphobranchus kaupii,126328,fish,Chordata,Actinopteri,Anguilliformes,Synaphobranchidae,Synaphobranchus,Synaphobranchus kaupii,Synaphobranchus kaupii,3e-4,3.36,FishBase
+Syngnathus acus,127387,fish,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus acus,Syngnathus acus,3e-4,3.19,FishBase
+Syngnathus typhle,127393,fish,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus typhle,Syngnathus typhle,2e-4,3.12,FishBase
+Thetys vagina,137281,megaplankton,Chordata,Thaliacea,Salpida,Salpidae,Thetys,Thetys vagina,Thetys vagina,NA,NA,NA
+Trachurus picturatus,126821,fish,Chordata,Actinopteri,Carangiformes,Carangidae,Trachurus,Trachurus picturatus,Trachurus picturatus,0.01,3.11,FishBase
+Trachyrincus scabrus,126482,fish,Chordata,Actinopteri,Gadiformes,Macrouridae,Trachyrincus,Trachyrincus scabrus,Trachyrincus scabrus,0.00129,3.232,FishBase
+Trisopterus esmarkii,126444,fish,Chordata,Actinopteri,Gadiformes,Gadidae,Trisopterus,Trisopterus esmarkii,Trisopterus esmarkii,0.0044,3.21,MS-S
+Xenodermichthys copei,126714,fish,Chordata,Actinopteri,Alepocephaliformes,Alepocephalidae,Xenodermichthys,Xenodermichthys copei,Xenodermichthys copei,0.0066,3,FishBase
+Xiphias gladius,127094,fish,Chordata,Actinopteri,Carangiformes,Xiphiidae,Xiphias,Xiphias gladius,Xiphias gladius,0.0023,3.17,FishBase
+Alpheus glaber,107477,macrobenthos,Arthropoda,Malacostraca,Decapoda,Alpheidae,Alpheus,Alpheus glaber,Alpheus glaber,NA,NA,NA
+Atelecyclus rotundatus,107273,benthos,Arthropoda,Malacostraca,Decapoda,Atelecyclidae,Atelecyclus,Atelecyclus rotundatus,Atelecyclus rotundatus,NA,NA,NA
+Atelecyclus undecimdentatus,107274,benthos,Arthropoda,Malacostraca,Decapoda,Atelecyclidae,Atelecyclus,Atelecyclus undecimdentatus,Atelecyclus undecimdentatus,NA,NA,NA
+Bathynectes maravigna,107377,benthos,Arthropoda,Malacostraca,Decapoda,Polybiidae,Bathynectes,Bathynectes maravigna,Bathynectes maravigna,NA,NA,NA
+Bathypolypus arcticus,140596,benthos,Mollusca,Cephalopoda,Octopoda,Bathypolypodidae,Bathypolypus,Bathypolypus arcticus,Bathypolypus arcticus,NA,NA,NA
+Bathypolypus sponsalis,140598,benthos,Mollusca,Cephalopoda,Octopoda,Bathypolypodidae,Bathypolypus,Bathypolypus sponsalis,Bathypolypus sponsalis,NA,NA,NA
+Callanthias ruber,126789,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Callanthiidae,Callanthias,Callanthias ruber,Callanthias ruber,0.00977,3.07,FB_Baysian_(Sub)family-body shape
+Calocaris macandreae,107726,benthos,Arthropoda,Malacostraca,Decapoda,Axiidae,Calocaris,Calocaris macandreae,Calocaris macandreae,NA,NA,NA
+Cancer bellianus,107275,benthos,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Cancer bellianus,Cancer bellianus,NA,NA,NA
+Chaunax pictus,126539,fish,Chordata,Actinopteri,Lophiiformes,Chaunacidae,Chaunax,Chaunax pictus,Chaunax pictus,0.01995,3.01,FB_Baysian_Body shape
+Chlorotocus crassicornis,107642,macrobenthos,Arthropoda,Malacostraca,Decapoda,Pandalidae,Chlorotocus,Chlorotocus crassicornis,Chlorotocus crassicornis,NA,NA,NA
+Citharus linguatula,127130,fish,Chordata,Actinopteri,Pleuronectiformes,Citharidae,Citharus,Citharus linguatula,Citharus linguatula,0.0051,3.12,FishBase
+Clupeidae,125464,fish,Chordata,Actinopteri,Clupeiformes,Clupeidae,NA,NA,Clupeidae,0.006240799,3.085,Mean_Species
+Cyclothone,126187,fish,Chordata,Actinopteri,Stomiiformes,Gonostomatidae,Cyclothone,NA,Cyclothone,0.00363,3.07,FishBase
+Deltentosteus quadrimaculatus,126880,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Deltentosteus,Deltentosteus quadrimaculatus,Deltentosteus quadrimaculatus,0.0052,3.21,FishBase
+Dichelopandalus bonnieri,107643,macrobenthos,Arthropoda,Malacostraca,Decapoda,Pandalidae,Dichelopandalus,Dichelopandalus bonnieri,Dichelopandalus bonnieri,NA,NA,NA
+Echiodon dentatus,126662,fish,Chordata,Actinopteri,Ophidiiformes,Carapidae,Echiodon,Echiodon dentatus,Echiodon dentatus,0.00102,3.06,FB_Baysian_Body shape
+Eledone cirrhosa,140600,benthos,Mollusca,Cephalopoda,Octopoda,Eledonidae,Eledone,Eledone cirrhosa,Eledone cirrhosa,NA,NA,NA
+Epigonus denticulatus,126857,fish,Chordata,Actinopteri,Acropomatiformes,Epigonidae,Epigonus,Epigonus denticulatus,Epigonus denticulatus,0.0045,3.26,FishBase
+Eurynome aspera,107318,benthos,Arthropoda,Malacostraca,Decapoda,Majidae,Eurynome,Eurynome aspera,Eurynome aspera,NA,NA,NA
+Eusergestes arcticus,515738,macroplankton,Arthropoda,Malacostraca,Decapoda,Sergestidae,Eusergestes,Eusergestes arcticus,Eusergestes arcticus,NA,NA,NA
+Galatea,492282,benthos,Mollusca,Bivalvia,Cardiida,Donacidae,Galatea,NA,Galatea,NA,NA,NA
+Galathea intermedia,107150,macrobenthos,Arthropoda,Malacostraca,Decapoda,Galatheidae,Galathea,Galathea intermedia,Galathea intermedia,NA,NA,NA
+Galathea strigosa,107155,macrobenthos,Arthropoda,Malacostraca,Decapoda,Galatheidae,Galathea,Galathea strigosa,Galathea strigosa,NA,NA,NA
+Galeus atlanticus,105811,fish,Chordata,Elasmobranchii,Carcharhiniformes,Pentanchidae,Galeus,Galeus atlanticus,Galeus atlanticus,0.0023,3.07,FishBase
+Geryon longipes,107373,benthos,Arthropoda,Malacostraca,Decapoda,Geryonidae,Geryon,Geryon longipes,Geryon longipes,NA,NA,NA
+Gobius gasteveni,126890,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Gobius,Gobius gasteveni,Gobius gasteveni,0.0101,3.05,FishBase
+Goneplax rhomboides,107292,benthos,Arthropoda,Malacostraca,Decapoda,Goneplacidae,Goneplax,Goneplax rhomboides,Goneplax rhomboides,NA,NA,NA
+Gonostomatidae,125601,fish,Chordata,Actinopteri,Stomiiformes,Gonostomatidae,NA,NA,Gonostomatidae,NA,NA,NA
+Histioteuthis reversa,181381,nekton,Mollusca,Cephalopoda,Oegopsida,Histioteuthidae,Histioteuthis,Histioteuthis reversa,Histioteuthis reversa,NA,NA,NA
+Hymenocephalus italicus,158961,fish,Chordata,Actinopteri,Gadiformes,Macrouridae,Hymenocephalus,Hymenocephalus italicus,Hymenocephalus italicus,0.00302,3.12,FB_Baysian_(Sub)family-body shape
+Inachus dorsettensis,107327,benthos,Arthropoda,Malacostraca,Decapoda,Inachidae,Inachus,Inachus dorsettensis,Inachus dorsettensis,NA,NA,NA
+Inachus leptochirus,107330,benthos,Arthropoda,Malacostraca,Decapoda,Inachidae,Inachus,Inachus leptochirus,Inachus leptochirus,NA,NA,NA
+Lampadena,125824,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lampadena,NA,Lampadena,0.01,2.98,FishBase
+Lampanyctus,125825,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lampanyctus,NA,Lampanyctus,0.007141432,2.98,Mean_Species
+Lepidotrigla cavillone,127264,fish,Chordata,Actinopteri,Perciformes,Triglidae,Lepidotrigla,Lepidotrigla cavillone,Lepidotrigla cavillone,0.0098,3.1,FishBase
+Liocarcinus depurator,107387,benthos,Arthropoda,Malacostraca,Decapoda,Polybiidae,Liocarcinus,Liocarcinus depurator,Liocarcinus depurator,NA,NA,NA
+Liocarcinus holsatus,107388,benthos,Arthropoda,Malacostraca,Decapoda,Polybiidae,Liocarcinus,Liocarcinus holsatus,Liocarcinus holsatus,NA,NA,NA
+Macropipus tuberculatus,107397,benthos,Arthropoda,Malacostraca,Decapoda,Polybiidae,Macropipus,Macropipus tuberculatus,Macropipus tuberculatus,NA,NA,NA
+Macropodia longirostris,107343,benthos,Arthropoda,Malacostraca,Decapoda,Inachidae,Macropodia,Macropodia longirostris,Macropodia longirostris,NA,NA,NA
+Macropodia rostrata,107345,benthos,Arthropoda,Malacostraca,Decapoda,Inachidae,Macropodia,Macropodia rostrata,Macropodia rostrata,NA,NA,NA
+Maja squinado,107350,macrobenthos,Arthropoda,Malacostraca,Decapoda,Majidae,Maja,Maja squinado,Maja squinado,NA,NA,NA
+Microchirus boscanion,274300,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Microchirus,Microchirus boscanion,Microchirus boscanion,0.0112,3.03,FishBase
+Monodaeus couchii,241154,benthos,Arthropoda,Malacostraca,Decapoda,Xanthidae,Monodaeus,Monodaeus couchii,Monodaeus couchii,NA,NA,NA
+Mugil cephalus,126983,fish,Chordata,Actinopteri,Mugiliformes,Mugilidae,Mugil,Mugil cephalus,Mugil cephalus,0.0148,2.95,FishBase
+Munida intermedia,107157,macrobenthos,Arthropoda,Malacostraca,Decapoda,Munididae,Munida,Munida intermedia,Munida intermedia,NA,NA,NA
+Munida rugosa,107160,macrobenthos,Arthropoda,Malacostraca,Decapoda,Munididae,Munida,Munida rugosa,Munida rugosa,NA,NA,NA
+Munida sarsi,107163,macrobenthos,Arthropoda,Malacostraca,Decapoda,Munididae,Munida,Munida sarsi,Munida sarsi,NA,NA,NA
+Munida speciosa,107164,macrobenthos,Arthropoda,Malacostraca,Decapoda,Munididae,Munida,Munida speciosa,Munida speciosa,NA,NA,NA
+Mustelus mustelus,105822,fish,Chordata,Elasmobranchii,Carcharhiniformes,Triakidae,Mustelus,Mustelus mustelus,Mustelus mustelus,0.01,2.76,FishBase
+Nemichthys scolopaceus,126306,fish,Chordata,Actinopteri,Anguilliformes,Nemichthyidae,Nemichthys,Nemichthys scolopaceus,Nemichthys scolopaceus,0.00102,3.06,FB_Baysian_Body shape
+Neorossia caroli,141447,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Neorossia,Neorossia caroli,Neorossia caroli,NA,NA,NA
+Notacanthus bonaparte,126642,fish,Chordata,Actinopteri,Notacanthiformes,Notacanthidae,Notacanthus,Notacanthus bonaparte,Notacanthus bonaparte,0.0012,3.06,FishBase
+Notoscopelus,125831,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Notoscopelus,NA,Notoscopelus,0.01161034,3,Mean_Species
+Octopus salutii,140604,benthos,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,Octopus salutii,Octopus salutii,NA,NA,NA
+Octopus vulgaris,140605,benthos,Mollusca,Cephalopoda,Octopoda,Octopodidae,Octopus,Octopus vulgaris,Octopus vulgaris,NA,NA,NA
+Palaemon serratus,107616,macrobenthos,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Palaemon,Palaemon serratus,Palaemon serratus,NA,NA,NA
+Paralepis coregonoides,126361,fish,Chordata,Actinopteri,Aulopiformes,Paralepididae,Paralepis,Paralepis coregonoides,Paralepis coregonoides,0.00324,3.08,FB_Baysian_(Sub)family-body shape
+Parapenaeus longirostris,107109,macrobenthos,Arthropoda,Malacostraca,Decapoda,Penaeidae,Parapenaeus,Parapenaeus longirostris,Parapenaeus longirostris,NA,NA,NA
+Pasiphaea multidentata,107676,macroplankton,Arthropoda,Malacostraca,Decapoda,Pasiphaeidae,Pasiphaea,Pasiphaea multidentata,Pasiphaea multidentata,NA,NA,NA
+Pasiphaea sivado,107677,macroplankton,Arthropoda,Malacostraca,Decapoda,Pasiphaeidae,Pasiphaea,Pasiphaea sivado,Pasiphaea sivado,NA,NA,NA
+Penaeopsis serrata,107111,macrobenthos,Arthropoda,Malacostraca,Decapoda,Penaeidae,Penaeopsis,Penaeopsis serrata,Penaeopsis serrata,NA,NA,NA
+Philocheras echinulatus,107558,macrobenthos,Arthropoda,Malacostraca,Decapoda,Crangonidae,Philocheras,Philocheras echinulatus,Philocheras echinulatus,NA,NA,NA
+Pisa armata,107353,benthos,Arthropoda,Malacostraca,Decapoda,Epialtidae,Pisa,Pisa armata,Pisa armata,NA,NA,NA
+Plesionika heterocarpus,107660,macrobenthos,Arthropoda,Malacostraca,Decapoda,Pandalidae,Plesionika,Plesionika heterocarpus,Plesionika heterocarpus,NA,NA,NA
+Plesionika martia,107661,macrobenthos,Arthropoda,Malacostraca,Decapoda,Pandalidae,Plesionika,Plesionika martia,Plesionika martia,NA,NA,NA
+Polybius henslowii,107399,benthos,Arthropoda,Malacostraca,Decapoda,Polybiidae,Polybius,Polybius henslowii,Polybius henslowii,NA,NA,NA
+Polycheles typhlops,107696,macrobenthos,Arthropoda,Malacostraca,Decapoda,Polychelidae,Polycheles,Polycheles typhlops,Polycheles typhlops,NA,NA,NA
+Pontophilus norvegicus,107563,macrobenthos,Arthropoda,Malacostraca,Decapoda,Crangonidae,Pontophilus,Pontophilus norvegicus,Pontophilus norvegicus,NA,NA,NA
+Pontophilus spinosus,107564,macrobenthos,Arthropoda,Malacostraca,Decapoda,Crangonidae,Pontophilus,Pontophilus spinosus,Pontophilus spinosus,NA,NA,NA
+Processa,107054,macrobenthos,Arthropoda,Malacostraca,Decapoda,Processidae,Processa,NA,Processa,NA,NA,NA
+Processa canaliculata,107682,macrobenthos,Arthropoda,Malacostraca,Decapoda,Processidae,Processa,Processa canaliculata,Processa canaliculata,NA,NA,NA
+Psathyrocaris infirma,107680,macrobenthos,Arthropoda,Malacostraca,Decapoda,Pasiphaeidae,Psathyrocaris,Psathyrocaris infirma,Psathyrocaris infirma,NA,NA,NA
+Raja,105766,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,NA,Raja,0.002905104,3.197143,Mean_Species
+Rajidae,105711,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,NA,NA,Rajidae,0.003054498,3.1801,Mean_Species
+Rondeletiola minor,141448,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Rondeletiola,Rondeletiola minor,Rondeletiola minor,NA,NA,NA
+Rossia macrosoma,141449,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Rossia,Rossia macrosoma,Rossia macrosoma,NA,NA,NA
+Scyllarus arctus,107709,macrobenthos,Arthropoda,Malacostraca,Decapoda,Scyllaridae,Scyllarus,Scyllarus arctus,Scyllarus arctus,NA,NA,NA
+Sepiola tridens,494117,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Sepiola,Sepiola tridens,Sepiola tridens,NA,NA,NA
+Sepiolidae,11725,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,NA,NA,Sepiolidae,NA,NA,NA
+Solenocera membranacea,107120,macrobenthos,Arthropoda,Malacostraca,Decapoda,Solenoceridae,Solenocera,Solenocera membranacea,Solenocera membranacea,NA,NA,NA
+Symphurus nigrescens,127134,fish,Chordata,Actinopteri,Pleuronectiformes,Cynoglossidae,Symphurus,Symphurus nigrescens,Symphurus nigrescens,0.0048,3.21,FishBase
+Synaphobranchidae,125436,fish,Chordata,Actinopteri,Anguilliformes,Synaphobranchidae,NA,NA,Synaphobranchidae,NA,NA,NA
+Systellaspis debilis,107605,zooplankton,Arthropoda,Malacostraca,Decapoda,Oplophoridae,Systellaspis,Systellaspis debilis,Systellaspis debilis,NA,NA,NA
+Umbrina cirrosa,127012,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sciaenidae,Umbrina,Umbrina cirrosa,Umbrina cirrosa,0.0117,3.02,FishBase
+Xantho,106957,benthos,Arthropoda,Malacostraca,Decapoda,Xanthidae,Xantho,NA,Xantho,NA,NA,NA
+Abralia veranyi,139688,nekton,Mollusca,Cephalopoda,Oegopsida,Enoploteuthidae,Abralia,Abralia veranyi,Abralia veranyi,NA,NA,NA
+Anthias anthias,127031,fish,Chordata,Actinopteri,Perciformes,Serranidae,Anthias,Anthias anthias,Anthias anthias,0.0242,2.611,FishBase
+Argyropelecus aculeatus,127306,fish,Chordata,Actinopteri,Stomiiformes,Sternoptychidae,Argyropelecus,Argyropelecus aculeatus,Argyropelecus aculeatus,0.0182,3,FB_Baysian_(Sub)family-body shape
+Aristeus antennatus,107083,macrobenthos,Arthropoda,Malacostraca,Decapoda,Aristeidae,Aristeus,Aristeus antennatus,Aristeus antennatus,NA,NA,NA
+Arnoglossus,126109,fish,Chordata,Actinopteri,Pleuronectiformes,Bothidae,Arnoglossus,NA,Arnoglossus,0.004395452,3.1925,Mean_Species
+Arnoglossus rueppelii,127127,fish,Chordata,Actinopteri,Pleuronectiformes,Bothidae,Arnoglossus,Arnoglossus rueppelii,Arnoglossus rueppelii,0.0046,3.08,FishBase
+Benthodesmus elongatus,127086,fish,Chordata,Actinopteri,Scombriformes,Trichiuridae,Benthodesmus,Benthodesmus elongatus,Benthodesmus elongatus,4.8e-5,3.42,FishBase
+Centrolophus niger,126831,fish,Chordata,Actinopteri,Scombriformes,Centrolophidae,Centrolophus,Centrolophus niger,Centrolophus niger,0.0024,3.346,FishBase
+Conger,125624,fish,Chordata,Actinopteri,Anguilliformes,Congridae,Conger,NA,Conger,3.22e-4,3.377,Mean_Species
+Dentex canariensis,273960,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Dentex,Dentex canariensis,Dentex canariensis,0.0162,3.01,FishBase
+Dentex gibbosus,273964,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Dentex,Dentex gibbosus,Dentex gibbosus,0.0105,3.06,FishBase
+Dentex maroccanus,273966,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Dentex,Dentex maroccanus,Dentex maroccanus,0.0257,2.85,FishBase
+Diplodus annularis,127049,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Diplodus,Diplodus annularis,Diplodus annularis,0.0123,3.14,FishBase
+Diplodus bellottii,127050,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Diplodus,Diplodus bellottii,Diplodus bellottii,0.0098,3.21,FishBase
+Dipturus oxyrinchus,105872,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Dipturus,Dipturus oxyrinchus,Dipturus oxyrinchus,6e-4,3.47,FishBase
+Eledone moschata,140601,benthos,Mollusca,Cephalopoda,Octopoda,Eledonidae,Eledone,Eledone moschata,Eledone moschata,NA,NA,NA
+Ephippion guttifer,127413,fish,Chordata,Actinopteri,Tetraodontiformes,Tetraodontidae,Ephippion,Ephippion guttifer,Ephippion guttifer,0.0316,2.87,Modelled_Family
+Epigonus telescopus,126858,fish,Chordata,Actinopteri,Acropomatiformes,Epigonidae,Epigonus,Epigonus telescopus,Epigonus telescopus,0.01288,2.9642,MS-S
+Etmopterus pusillus,105912,fish,Chordata,Elasmobranchii,Squaliformes,Etmopteridae,Etmopterus,Etmopterus pusillus,Etmopterus pusillus,0.0044,3,FishBase
+Gadella maraldi,126488,fish,Chordata,Actinopteri,Gadiformes,Moridae,Gadella,Gadella maraldi,Gadella maraldi,0.00301,3.304,FishBase
+Gaidropsarus,125743,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Gaidropsarus,NA,Gaidropsarus,0.006265875,3.054524,Mean_Species
+Gnathophis mystax,126287,fish,Chordata,Actinopteri,Anguilliformes,Congridae,Gnathophis,Gnathophis mystax,Gnathophis mystax,0.001,3.058,FishBase
+Holothuroidea,123083,benthos,Echinodermata,Holothuroidea,NA,NA,NA,NA,Holothuroidea,NA,NA,NA
+Hoplostethus atlanticus,126402,fish,Chordata,Actinopteri,Trachichthyiformes,Trachichthyidae,Hoplostethus,Hoplostethus atlanticus,Hoplostethus atlanticus,0.0603,2.82,FishBase
+Hygophum benoiti,126602,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Hygophum,Hygophum benoiti,Hygophum benoiti,0.01023,3.11,FB_Baysian_(Sub)family-body shape
+Lepidotrigla,126179,fish,Chordata,Actinopteri,Perciformes,Triglidae,Lepidotrigla,NA,Lepidotrigla,0.009443515,3.1,Mean_Species
+Lesueurigobius sanzi,126906,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Lesueurigobius,Lesueurigobius sanzi,Lesueurigobius sanzi,0.0067,3.121,FishBase
+Macroramphosus,126222,fish,Chordata,Actinopteri,Syngnathiformes,Centriscidae,Macroramphosus,NA,Macroramphosus,0.0087,2.83,Mean_Species
+Macrotritopus defilippi,534126,benthos,Mollusca,Cephalopoda,Octopoda,Octopodidae,Macrotritopus,Macrotritopus defilippi,Macrotritopus defilippi,NA,NA,NA
+Microchirus azevia,274299,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Microchirus,Microchirus azevia,Microchirus azevia,0.01,3.07,FishBase
+Monochirus hispidus,127155,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Monochirus,Monochirus hispidus,Monochirus hispidus,0.01439,3.16,FishBase
+Necora puber,107398,benthos,Arthropoda,Malacostraca,Decapoda,Polybiidae,Necora,Necora puber,Necora puber,NA,NA,NA
+Neoraja iberica,398306,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Neoraja,Neoraja iberica,Neoraja iberica,0.00295,3.21,FB_Baysian_(Sub)family-body shape
+Nerophis ophidion,127385,fish,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Nerophis,Nerophis ophidion,Nerophis ophidion,2e-4,2.749,FishBase
+Nezumia bairdii,183289,fish,Chordata,Actinopteri,Gadiformes,Macrouridae,Nezumia,Nezumia bairdii,Nezumia bairdii,0.00302,3.12,FB_Baysian_(Sub)family-body shape
+Octopodidae,11782,benthos,Mollusca,Cephalopoda,Octopoda,Octopodidae,NA,NA,Octopodidae,NA,NA,NA
+Ophiura ophiura,124929,macrobenthos,Echinodermata,Ophiuroidea,Ophiurida,Ophiuridae,Ophiura,Ophiura ophiura,Ophiura ophiura,NA,NA,NA
+Pagrus auriga,127061,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Pagrus,Pagrus auriga,Pagrus auriga,0.022897161,2.94,Modelled_Genus
+Parastichopus regalis,149898,benthos,Echinodermata,Holothuroidea,Synallactida,Stichopodidae,Parastichopus,Parastichopus regalis,Parastichopus regalis,NA,NA,NA
+Parastichopus tremulus,124535,benthos,Echinodermata,Holothuroidea,Synallactida,Stichopodidae,Parastichopus,Parastichopus tremulus,Parastichopus tremulus,NA,NA,NA
+Peristedion cataphractum,127233,fish,Chordata,Actinopteri,Perciformes,Peristediidae,Peristedion,Peristedion cataphractum,Peristedion cataphractum,0.0056,2.95,FishBase
+Phycis phycis,126502,fish,Chordata,Actinopteri,Gadiformes,Phycidae,Phycis,Phycis phycis,Phycis phycis,0.0068,3.14,FishBase
+Plesionika edwardsii,107656,macrobenthos,Arthropoda,Malacostraca,Decapoda,Pandalidae,Plesionika,Plesionika edwardsii,Plesionika edwardsii,NA,NA,NA
+Pontinus kuhlii,127240,fish,Chordata,Actinopteri,Perciformes,Scorpaenidae,Pontinus,Pontinus kuhlii,Pontinus kuhlii,0.0132,3.03,FishBase
+Raja asterias,105881,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,Raja asterias,Raja asterias,0.0025,3.26,FishBase
+Raja miraletus,105886,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Raja,Raja miraletus,Raja miraletus,0.0018,3.21,FishBase
+Rostroraja alba,105896,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Rostroraja,Rostroraja alba,Rostroraja alba,0.005,3.06,FishBase
+Sarpa salpa,127064,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Sarpa,Sarpa salpa,Sarpa salpa,0.0129,3.06,FishBase
+Scorpaena,126171,fish,Chordata,Actinopteri,Perciformes,Scorpaenidae,Scorpaena,NA,Scorpaena,0.01465309,3.078,Mean_Species
+Sepiola rondeletii,141459,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Sepiola,Sepiola rondeletii,Sepiola rondeletii,NA,NA,NA
+Sphoeroides pachygaster,127417,fish,Chordata,Actinopteri,Tetraodontiformes,Tetraodontidae,Sphoeroides,Sphoeroides pachygaster,Sphoeroides pachygaster,0.0316,2.87,FishBase
+Spicara maena,126828,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Spicara,Spicara maena,Spicara maena,0.0083,3.13,FishBase
+Spicara smaris,126830,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Spicara,Spicara smaris,Spicara smaris,0.01,2.98,FishBase
+Squalus blainville,105924,fish,Chordata,Elasmobranchii,Squaliformes,Squalidae,Squalus,Squalus blainville,Squalus blainville,0.0034,3.05,FishBase
+Squilla mantis,136137,benthos,Arthropoda,Malacostraca,Stomatopoda,Squillidae,Squilla,Squilla mantis,Squilla mantis,NA,NA,NA
+Symphodus,126023,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Labridae,Symphodus,NA,Symphodus,0.01096596,3.11,Mean_Species
+Synchiropus phaeton,126798,fish,Chordata,Actinopteri,Callionymiformes,Callionymidae,Synchiropus,Synchiropus phaeton,Synchiropus phaeton,0.01309,2.527,FishBase
+Tetronarce nobiliana,321911,fish,Chordata,Elasmobranchii,Torpediniformes,Torpedinidae,Tetronarce,Tetronarce nobiliana,Tetronarce nobiliana,0.0672,2.926,FishBase
+Torpedo torpedo,271691,fish,Chordata,Elasmobranchii,Torpediniformes,Torpedinidae,Torpedo,Torpedo torpedo,Torpedo torpedo,0.0302,2.81,FishBase
+Uranoscopus scaber,127093,fish,Chordata,Actinopteri,Perciformes,Uranoscopidae,Uranoscopus,Uranoscopus scaber,Uranoscopus scaber,0.0126,3.08,FishBase
+Vinciguerria poweriae,127304,fish,Chordata,Actinopteri,Stomiiformes,Phosichthyidae,Vinciguerria,Vinciguerria poweriae,Vinciguerria poweriae,0.00933,3.09,FB_Baysian_(Sub)family-body shape
+Zenopsis conchifer,127426,fish,Chordata,Actinopteri,Zeiformes,Zeidae,Zenopsis,Zenopsis conchifer,Zenopsis conchifer,0.0027,3.4,FishBase
+Aristaeomorpha foliacea,158326,macrobenthos,Arthropoda,Malacostraca,Decapoda,Aristeidae,Aristaeomorpha,Aristaeomorpha foliacea,Aristaeomorpha foliacea,NA,NA,NA
+Breviraja,158545,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Breviraja,NA,Breviraja,NA,NA,NA
+Callionymus risso,126796,fish,Chordata,Actinopteri,Callionymiformes,Callionymidae,Callionymus,Callionymus risso,Callionymus risso,0.0122,2.81,FishBase
+Caranx rhonchus,126806,fish,Chordata,Actinopteri,Carangiformes,Carangidae,Caranx,Caranx rhonchus,Caranx rhonchus,0.0251,2.77,FishBase
+Carapus acus,126661,fish,Chordata,Actinopteri,Ophidiiformes,Carapidae,Carapus,Carapus acus,Carapus acus,0.00102,3.06,FB_Baysian_Body shape
+Centrophorus granulosus,105899,fish,Chordata,Elasmobranchii,Squaliformes,Centrophoridae,Centrophorus,Centrophorus granulosus,Centrophorus granulosus,0.0023,3.21,FishBase
+Cubiceps gracilis,126990,fish,Chordata,Actinopteri,Scombriformes,Nomeidae,Cubiceps,Cubiceps gracilis,Cubiceps gracilis,0.01072,3.03,FB_Baysian_(Sub)family-body shape
+Diaphus dumerilii,126590,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Diaphus,Diaphus dumerilii,Diaphus dumerilii,0.00595,3.018,FishBase
+Dysomma brevirostre,126321,fish,Chordata,Actinopteri,Anguilliformes,Synaphobranchidae,Dysomma,Dysomma brevirostre,Dysomma brevirostre,0.00102,3.06,FB_Baysian_Body shape
+Halobatrachus didactylus,126374,fish,Chordata,Actinopteri,Batrachoidiformes,Batrachoididae,Halobatrachus,Halobatrachus didactylus,Halobatrachus didactylus,0.0166,3.03,FishBase
+Lobianchia dofleini,158900,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lobianchia,Lobianchia dofleini,Lobianchia dofleini,0.00912,3.04,FB_Baysian_(Sub)family-body shape
+Microchirus ocellatus,274302,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Microchirus,Microchirus ocellatus,Microchirus ocellatus,0.018,2.9,FishBase
+Ophichthus rufus,126316,fish,Chordata,Actinopteri,Anguilliformes,Ophichthidae,Ophichthus,Ophichthus rufus,Ophichthus rufus,0.00151,2.91,FB_Baysian_(Sub)family-body shape
+Penaeus kerathurus,246388,macrobenthos,Arthropoda,Malacostraca,Decapoda,Penaeidae,Penaeus,Penaeus kerathurus,Penaeus kerathurus,NA,NA,NA
+Pomadasys incisus,126947,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Haemulidae,Pomadasys,Pomadasys incisus,Pomadasys incisus,0.0269,2.78,FishBase
+Pomatomus saltatrix,151482,fish,Chordata,Actinopteri,Scombriformes,Pomatomidae,Pomatomus,Pomatomus saltatrix,Pomatomus saltatrix,0.0145,2.9,FishBase
+Sphyraena sphyraena,127068,fish,Chordata,Actinopteri,Carangaria incertae sedis,Sphyraenidae,Sphyraena,Sphyraena sphyraena,Sphyraena sphyraena,0.0151,2.84,FishBase
+Stromateus fiatola,127076,fish,Chordata,Actinopteri,Perciformes,Stromateidae,Stromateus,Stromateus fiatola,Stromateus fiatola,0.0166,3.05,FB_Baysian_(Sub)family-body shape
+Zenion hololepis,127421,fish,Chordata,Actinopteri,Zeiformes,Zeniontidae,Zenion,Zenion hololepis,Zenion hololepis,0.01122,3.04,FB_Baysian_Body shape
+Heptranchias perlo,105832,fish,Chordata,Elasmobranchii,Hexanchiformes,Hexanchidae,Heptranchias,Heptranchias perlo,Heptranchias perlo,0.00389,3.12,FB_Baysian_Body shape
+Lobianchia,158899,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lobianchia,NA,Lobianchia,0.006990494,3.035,Mean_Species
+Lobianchia gemellarii,158901,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lobianchia,Lobianchia gemellarii,Lobianchia gemellarii,0.00537,3.08,FB_Baysian_(Sub)family-body shape
+Notoscopelus elongatus,158915,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Notoscopelus,Notoscopelus elongatus,Notoscopelus elongatus,0.01348,3,FishBase
+Plectorhinchus mediterraneus,126946,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Haemulidae,Plectorhinchus,Plectorhinchus mediterraneus,Plectorhinchus mediterraneus,0.0081,3.17,FishBase
+Ruvettus pretiosus,126867,fish,Chordata,Actinopteri,Scombriformes,Gempylidae,Ruvettus,Ruvettus pretiosus,Ruvettus pretiosus,0.0031,3.134,FishBase
+Sardinella aurita,126422,fish,Chordata,Actinopteri,Clupeiformes,Clupeidae,Sardinella,Sardinella aurita,Sardinella aurita,0.0072,3.05,FishBase
+Setarches guentheri,127258,fish,Chordata,Actinopteri,Perciformes,Setarchidae,Setarches,Setarches guentheri,Setarches guentheri,0.0104,3.091,FishBase
+Valenciennellus tripunctulatus,127316,fish,Chordata,Actinopteri,Stomiiformes,Sternoptychidae,Valenciennellus,Valenciennellus tripunctulatus,Valenciennellus tripunctulatus,NA,NA,NA
+Aequorea,116998,NA,Cnidaria,Hydrozoa,Leptothecata,Aequoreidae,Aequorea,NA,Aequorea,NA,NA,NA
+Agonus cataphractus,127190,fish,Chordata,Actinopteri,Perciformes,Agonidae,Agonus,Agonus cataphractus,Agonus cataphractus,0.02,2.75,MS-S
+Alloteuthis subulata,153131,nekton,Mollusca,Cephalopoda,Myopsida,Loliginidae,Alloteuthis,Alloteuthis subulata,Alloteuthis subulata,NA,NA,NA
+Ammodytidae,125516,fish,Chordata,Actinopteri,Perciformes,Ammodytidae,NA,NA,Ammodytidae,0.002062183,3.108917,Mean_Species
+Argentina,125885,fish,Chordata,Actinopteri,Argentiniformes,Argentinidae,Argentina,NA,Argentina,0.004095121,3.171,Mean_Species
+Aurelia aurita,135306,megaplankton,Cnidaria,Scyphozoa,Semaeostomeae,Ulmaridae,Aurelia,Aurelia aurita,Aurelia aurita,NA,NA,NA
+Chirolophis ascanii,127071,fish,Chordata,Actinopteri,Perciformes,Stichaeidae,Chirolophis,Chirolophis ascanii,Chirolophis ascanii,0.04,2.25,MS-S
+Ciliata septentrionalis,126449,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Ciliata,Ciliata septentrionalis,Ciliata septentrionalis,0.0083,3.18,FishBase
+Ctenophora,1248,zooplankton,Ctenophora,NA,NA,NA,NA,NA,Ctenophora,NA,NA,NA
+Cyanea lamarckii,135302,zooplankton,Cnidaria,Scyphozoa,Semaeostomeae,Cyaneidae,Cyanea,Cyanea lamarckii,Cyanea lamarckii,NA,NA,NA
+Echiodon drummondi,126663,fish,Chordata,Actinopteri,Ophidiiformes,Carapidae,Echiodon,Echiodon drummondii,Echiodon drummondii,0.01,2.34,MS-S
+Gadidae,125469,fish,Chordata,Actinopteri,Gadiformes,Gadidae,NA,NA,Gadidae,NA,NA,NA
+Gobiesocidae,125477,fish,Chordata,Actinopteri,Gobiesociformes,Gobiesocidae,NA,NA,Gobiesocidae,0.01466982,3.003333,Mean_Species
+Gobius paganellus,126893,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Gobius,Gobius paganellus,Gobius paganellus,0.0112,3.1,FishBase
+Hippoglossoides platessoides,127137,fish,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Hippoglossoides,Hippoglossoides platessoides,Hippoglossoides platessoides,0.0044,3.2,FishBase
+Liparis montagui,127220,fish,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,Liparis montagui,Liparis montagui,0.02,2.91,MS-S
+Lithodes maja,107205,macrobenthos,Arthropoda,Malacostraca,Decapoda,Lithodidae,Lithodes,Lithodes maja,Lithodes maja,NA,NA,NA
+Micrenophrys lilljeborgi,127201,fish,Chordata,Actinopteri,Perciformes,Cottidae,Micrenophrys,Micrenophrys lilljeborgii,Micrenophrys lilljeborgii,0.00661,3.17,FB_Baysian_(Sub)family-body shape
+Myoxocephalus scorpius,127203,fish,Chordata,Actinopteri,Perciformes,Cottidae,Myoxocephalus,Myoxocephalus scorpius,Myoxocephalus scorpius,0.0141,3.05,FishBase
+Pelagia noctiluca,135305,macroplankton,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Pelagia,Pelagia noctiluca,Pelagia noctiluca,NA,NA,NA
+Pholis gunnellus,126996,fish,Chordata,Actinopteri,Perciformes,Pholidae,Pholis,Pholis gunnellus,Pholis gunnellus,0.0043,3.018,FishBase
+Rhizostoma octopus,152203,zooplankton,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma,Rhizostoma octopus,Rhizostoma octopus,NA,NA,NA
+Taurulus bubalis,127204,fish,Chordata,Actinopteri,Perciformes,Cottidae,Taurulus,Taurulus bubalis,Taurulus bubalis,0.01,3.11,MS-S
+Aequipecten opercularis,140687,benthos,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten,Aequipecten opercularis,Aequipecten opercularis,NA,NA,NA
+Ammodytes,125909,fish,Chordata,Actinopteri,Perciformes,Ammodytidae,Ammodytes,NA,Ammodytes,0.002368544,3.06,Mean_Species
+Argentinidae,125508,fish,Chordata,Actinopteri,Argentiniformes,Argentinidae,NA,NA,Argentinidae,0.003329038,3.220667,Mean_Species
+Artediellus atlanticus,127193,fish,Chordata,Actinopteri,Perciformes,Cottidae,Artediellus,Artediellus atlanticus,Artediellus atlanticus,0.00661,3.17,FB_Baysian_(Sub)family-body shape
+Callionymidae,125522,fish,Chordata,Actinopteri,Callionymiformes,Callionymidae,NA,NA,Callionymidae,0.01601794,2.66,Mean_Species
+Chelidonichthys,126178,fish,Chordata,Actinopteri,Perciformes,Triglidae,Chelidonichthys,NA,Chelidonichthys,0.006901566,3.115333,Mean_Species
+Chrysaora hysoscella,135304,zooplankton,Cnidaria,Scyphozoa,Semaeostomeae,Pelagiidae,Chrysaora,Chrysaora hysoscella,Chrysaora hysoscella,NA,NA,NA
+Cyanea capillata,135301,megaplankton,Cnidaria,Scyphozoa,Semaeostomeae,Cyaneidae,Cyanea,Cyanea capillata,Cyanea capillata,NA,NA,NA
+Cyclopterus lumpus,127214,fish,Chordata,Actinopteri,Perciformes,Cyclopteridae,Cyclopterus,Cyclopterus lumpus,Cyclopterus lumpus,0.0587,2.939,FishBase
+Echiichthys,150629,fish,Chordata,Actinopteri,Perciformes,Trachinidae,Echiichthys,NA,Echiichthys,0.0105,3.05,Mean_Species
+Eutrigla,150636,fish,Chordata,Actinopteri,Perciformes,Triglidae,Eutrigla,NA,Eutrigla,0.00915,2.9998,Mean_Species
+Gobioidei,151743,fish,Chordata,Actinopteri,Perciformes,NA,NA,NA,Perciformes,0.01,3,Generic_Cube
+Labridae,125541,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Labridae,NA,NA,Labridae,0.008473111,3.13425,Mean_Species
+Liparis,126160,fish,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,NA,Liparis,0.02457642,2.955,Mean_Species
+Micrenophrys lilljeborgii,127201,fish,Chordata,Actinopteri,Perciformes,Cottidae,Micrenophrys,Micrenophrys lilljeborgii,Micrenophrys lilljeborgii,0.00661,3.17,FB_Baysian_(Sub)family-body shape
+Myoxocephalus scorpioides,127202,fish,Chordata,Actinopteri,Perciformes,Cottidae,Myoxocephalus,Myoxocephalus scorpioides,Myoxocephalus scorpioides,0.00661,3.17,FB_Baysian_(Sub)family-body shape
+Pegusa,126131,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Pegusa,NA,Pegusa,0.0072,3.14,Mean_Species
+Sepiola atlantica,141454,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Sepiola,Sepiola atlantica,Sepiola atlantica,NA,NA,NA
+Trigla,126180,fish,Chordata,Actinopteri,Perciformes,Triglidae,Trigla,NA,Trigla,0.011,2.94,Mean_Species
+Trigloporus,154461,fish,Chordata,Actinopteri,Perciformes,Triglidae,Trigloporus,NA,Trigloporus,0.0049,3.04,Mean_Species
+Zeugopterus,126125,fish,Chordata,Actinopteri,Pleuronectiformes,Scophthalmidae,Zeugopterus,NA,Zeugopterus,0.01339067,3.1756,mean_Species
+Zoarces viviparus,127123,fish,Chordata,Actinopteri,Perciformes,Zoarcidae,Zoarces,Zoarces viviparus,Zoarces viviparus,0.0044,3.03,FishBase
+Ostrea edulis,140658,benthos,Mollusca,Bivalvia,Ostreida,Ostreidae,Ostrea,Ostrea edulis,Ostrea edulis,NA,NA,NA
+Lamna nasus,105841,fish,Chordata,Elasmobranchii,Lamniformes,Lamnidae,Lamna,Lamna nasus,Lamna nasus,0.0204,2.94,FishBase
+Myxine glutinosa,101170,fish,Chordata,Myxini,Myxiniformes,Myxinidae,Myxine,Myxine glutinosa,Myxine glutinosa,3e-4,3.4,MS-S
+Prionace glauca,105801,fish,Chordata,Elasmobranchii,Carcharhiniformes,Carcharhinidae,Prionace,Prionace glauca,Prionace glauca,NA,NA,NA
+Rajella bathyphila,105892,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Rajella,Rajella bathyphila,Rajella bathyphila,0.00295,3.21,FB_Baysian_(Sub)family-body shape
+Abramis,154271,fish,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Abramis,NA,Abramis,0.01,3,Generic_Cube
+Amblyraja radiata,105865,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Amblyraja,Amblyraja radiata,Amblyraja radiata,0.00842,2.944,MS-S
+Aporocidaris incerta,160783,macrobenthos,Echinodermata,Echinoidea,Cidaroida,Ctenocidaridae,Aporocidaris,Aporocidaris incerta,Aporocidaris incerta,NA,NA,NA
+Balistes,126228,fish,Chordata,Actinopteri,Tetraodontiformes,Balistidae,Balistes,NA,Balistes,0.0106,3.121,Mean_Species
+Cottidae,125589,fish,Chordata,Actinopteri,Perciformes,Cottidae,NA,NA,Cottidae,0.01026505,3.0665,Mean_Species
+Galeus murinus,105813,fish,Chordata,Elasmobranchii,Carcharhiniformes,Pentanchidae,Galeus,Galeus murinus,Galeus murinus,0.00316,3.11,FB_Baysian_(Sub)family-body shape
+Gobius,125988,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Gobius,NA,Gobius,0.01081637,3.0725,Mean_Species
+Hippoglossus hippoglossus,127138,fish,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Hippoglossus,Hippoglossus hippoglossus,Hippoglossus hippoglossus,0.0052,3.1655,MS-S
+Illex illecebrosus,153087,nekton,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Illex,Illex illecebrosus,Illex illecebrosus,NA,NA,NA
+Lampetra fluviatilis,101172,fish,Chordata,Petromyzonti,Petromyzontiformes,Petromyzontidae,Lampetra,Lampetra fluviatilis,Lampetra fluviatilis,0.00111,3.141,FishBase
+Mullidae,125547,fish,Chordata,Actinopteri,Mulliformes,Mullidae,NA,NA,Mullidae,0.008394641,3.135,Mean_Species
+Mullus,126034,fish,Chordata,Actinopteri,Mulliformes,Mullidae,Mullus,NA,Mullus,0.008394639,3.135,Mean_Species
+Ommastrephidae,11760,nekton,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,NA,NA,Ommastrephidae,NA,NA,NA
+Pomatoschistus pictus,126930,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Pomatoschistus,Pomatoschistus pictus,Pomatoschistus pictus,0.0069,3.19,FishBase
+Sander lucioperca,151308,fish,Chordata,Actinopteri,Perciformes,Percidae,Sander,Sander lucioperca,Sander lucioperca,0.0071,3.12,FishBase
+Scorpaenidae,125595,fish,Chordata,Actinopteri,Perciformes,Scorpaenidae,NA,NA,Scorpaenidae,0.014400244,3.07,Mean_Species
+Sebastes mentella,127254,fish,Chordata,Actinopteri,Perciformes,Sebastidae,Sebastes,Sebastes mentella,Sebastes mentella,0.02,3.02,FishBase
+Sparidae,125564,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,NA,NA,Sparidae,0.014341981,3.036478261,Mean_Species
+Spinachia spinachia,126508,fish,Chordata,Actinopteri,Perciformes,Gasterosteidae,Spinachia,Spinachia spinachia,Spinachia spinachia,0.0021,3,FishBase
+Syngnathidae,125606,fish,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,NA,NA,Syngnathidae,4.40324e-4,2.9789875,Mean_Species
+Triglops murrayi,127205,fish,Chordata,Actinopteri,Perciformes,Cottidae,Triglops,Triglops murrayi,Triglops murrayi,0.02,2.74,MS-S
+Alosa,125715,fish,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,NA,Alosa,0.00672392,3.083333,Mean_Species
+Hyas araneus,107322,benthos,Arthropoda,Malacostraca,Decapoda,Oregoniidae,Hyas,Hyas araneus,Hyas araneus,NA,NA,NA
+Lumpenus lampretaeformis,154675,fish,Chordata,Actinopteri,Perciformes,Stichaeidae,Lumpenus,Lumpenus lampretaeformis,Lumpenus lampretaeformis,0.0164,2.09,FishBase
+Mustelus,105732,fish,Chordata,Elasmobranchii,Carcharhiniformes,Triakidae,Mustelus,NA,Mustelus,0.004242642,2.945,Mean_Species
+Petromyzon marinus,101174,fish,Chordata,Petromyzonti,Petromyzontiformes,Petromyzontidae,Petromyzon,Petromyzon marinus,Petromyzon marinus,3e-4,3.4,MS-S
+Petromyzontidae,101163,fish,Chordata,Petromyzonti,Petromyzontiformes,Petromyzontidae,NA,NA,Petromyzontidae,5.77061e-4,3.2705,Mean_Species
+Pheronema pilosum,171571,macrobenthos,Porifera,Hexactinellida,Amphidiscosida,Pheronematidae,Pheronema,Pheronema pilosum,Pheronema pilosum,NA,NA,NA
+Salmo,126141,fish,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salmo,NA,Salmo,0.01095444,3.015,Mean_Species
+Apletodon dentatus,126510,fish,Chordata,Actinopteri,Gobiesociformes,Gobiesocidae,Apletodon,Apletodon dentatus,Apletodon dentatus,0.0055,3.1,FB_Baysian_(Sub)family-body shape
+Brosme brosme,126447,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Brosme,Brosme brosme,Brosme brosme,0.00514,3.189,FishBase
+Phycidae,125475,fish,Chordata,Actinopteri,Gadiformes,Phycidae,NA,NA,Phycidae,0.006791411,3.113333333,Mean_Species
+Sebastes viviparus,127255,fish,Chordata,Actinopteri,Perciformes,Sebastidae,Sebastes,Sebastes viviparus,Sebastes viviparus,0.0115,3.137,FishBase
+Anarhichas lupus,126758,fish,Chordata,Actinopteri,Perciformes,Anarhichadidae,Anarhichas,Anarhichas lupus,Anarhichas lupus,0.0029,3.28,FishBase
+Corvomeyenia carolinensis,167039,macrobenthos,Porifera,Demospongiae,Spongillida,Metaniidae,Corvomeyenia,Corvomeyenia carolinensis,Corvomeyenia carolinensis,NA,NA,NA
+Triglidae,125598,fish,Chordata,Actinopteri,Perciformes,Triglidae,NA,NA,Triglidae,0.007852628,3.065725,Mean_Species
+Palinuridae,106794,benthos,Arthropoda,Malacostraca,Decapoda,Palinuridae,NA,NA,Palinuridae,NA,NA,NA
+Anguilla,125620,fish,Chordata,Actinopteri,Anguilliformes,Anguillidae,Anguilla,NA,Anguilla,9e-4,3.19,Mean_Species
+Lactarius lactarius,218381,fish,Chordata,Actinopteri,Carangaria incertae sedis,Lactariidae,Lactarius,Lactarius lactarius,Lactarius lactarius,NA,NA,NA
+Laridae,136988,nekton,Chordata,Aves,Charadriiformes,Laridae,NA,NA,Laridae,NA,NA,NA
+Osmerus eperlanus,126736,fish,Chordata,Actinopteri,Osmeriformes,Osmeridae,Osmerus,Osmerus eperlanus,Osmerus eperlanus,0.0032,3.3,FishBase
+Sebastes norvegicus,151324,fish,Chordata,Actinopteri,Perciformes,Sebastidae,Sebastes,Sebastes norvegicus,Sebastes norvegicus,0.02,2.95,MS-S
+Anguillidae,125425,fish,Chordata,Actinopteri,Anguilliformes,Anguillidae,NA,NA,Anguillidae,9e-4,3.19,Mean_Species
+Dicentrarchus,126029,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Moronidae,Dicentrarchus,NA,Dicentrarchus,0.004165142,3.2345,Mean_Species
+Loliginidae,11734,nekton,Mollusca,Cephalopoda,Myopsida,Loliginidae,NA,NA,Loliginidae,NA,NA,NA
+Maja,106909,benthos,Arthropoda,Malacostraca,Decapoda,Majidae,Maja,NA,Maja,NA,NA,NA
+Thorogobius ephippiatus,126937,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Thorogobius,Thorogobius ephippiatus,Thorogobius ephippiatus,0.00589,3.12,FB_Baysian_(Sub)family-body shape
+Alopias vulpinus,105836,fish,Chordata,Elasmobranchii,Lamniformes,Alopiidae,Alopias,Alopias vulpinus,Alopias vulpinus,0.00851,2.86,FB_Baysian_Body shape
+Lepadogaster,125781,fish,Chordata,Actinopteri,Gobiesociformes,Gobiesocidae,Lepadogaster,NA,Lepadogaster,0.0287,3,Mean_Species
+Rhizostoma,135257,zooplankton,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma,NA,Rhizostoma,NA,NA,NA
+Lumpenus,126088,fish,Chordata,Actinopteri,Perciformes,Stichaeidae,Lumpenus,NA,Lumpenus,0.0164,2.09,Mean_Species
+Acipenser sturio,126279,fish,Chordata,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,Acipenser sturio,Acipenser sturio,0.0041,3.04,FishBase
+Alosa agone,416357,fish,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,Alosa agone,Alosa agone,0.0132,2.94,FishBase
+Anarhichas minor,126759,fish,Chordata,Actinopteri,Perciformes,Anarhichadidae,Anarhichas,Anarhichas minor,Anarhichas minor,0.00172,3.399,FishBase
+Arctica islandica,138802,benthos,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica,Arctica islandica,Arctica islandica,NA,NA,NA
+Blenniidae,125519,fish,Chordata,Actinopteri,Blenniiformes,Blenniidae,NA,NA,Blenniidae,0.01138251,2.98,Mean_Species
+Bothidae,125576,fish,Chordata,Actinopteri,Pleuronectiformes,Bothidae,NA,NA,Bothidae,0.005521316,3.148333,Mean_Species
+Brachioteuthis,137697,nekton,Mollusca,Cephalopoda,Oegopsida,Brachioteuthidae,Brachioteuthis,NA,Brachioteuthis,NA,NA,NA
+Buglossidium,126127,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Buglossidium,NA,Buglossidium,0.00516,3.3357,Mean_Species
+Caproidae,125613,fish,Chordata,Actinopteri,Acanthuriformes,Caproidae,NA,NA,Caproidae,0.0275,2.78,Mean_Species
+Cephalopoda,11707,nekton,Mollusca,Cephalopoda,NA,NA,NA,NA,Cephalopoda,NA,NA,NA
+Coleoidea,11709,nekton,Mollusca,Cephalopoda,NA,NA,NA,NA,Cephalopoda,NA,NA,NA
+Cyclopteridae,125590,fish,Chordata,Actinopteri,Perciformes,Cyclopteridae,NA,NA,Cyclopteridae,0.0587,2.939,Mean_Species
+Gaidropsarus argentatus,126451,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Gaidropsarus,Gaidropsarus argentatus,Gaidropsarus argentatus,0.00594,3.03507,Scottish
+Gasterosteidae,125476,fish,Chordata,Actinopteri,Perciformes,Gasterosteidae,NA,NA,Gasterosteidae,0.006140439,3.032667,Mean_Species
+Gobius cobitis,126886,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Gobius,Gobius cobitis,Gobius cobitis,0.011,3.11,FishBase
+Illex,138278,nekton,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Illex,NA,Illex,NA,NA,NA
+Leptagonus decagonus,127191,fish,Chordata,Actinopteri,Perciformes,Agonidae,Leptagonus,Leptagonus decagonus,Leptagonus decagonus,0.02,2.75,Modelled_Family
+Leptoclinus maculatus,127072,fish,Chordata,Actinopteri,Perciformes,Stichaeidae,Leptoclinus,Leptoclinus maculatus,Leptoclinus maculatus,0.01,2.34,MS-S
+Leucoraja lentiginosa,271564,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Leucoraja,Leucoraja lentiginosa,Leucoraja lentiginosa,0.00295,3.21,FB_Baysian_(Sub)family-body shape
+Lycenchelys sarsii,127101,fish,Chordata,Actinopteri,Perciformes,Zoarcidae,Lycenchelys,Lycenchelys sarsii,Lycenchelys sarsii,1e-4,4.1,MS-S
+Lycodes,126104,fish,Chordata,Actinopteri,Perciformes,Zoarcidae,Lycodes,NA,Lycodes,0.007183317,2.67,Mean_Species
+Lycodes gracilis,274100,fish,Chordata,Actinopteri,Perciformes,Zoarcidae,Lycodes,Lycodes gracilis,Lycodes gracilis,0.04,2.25,MS-S
+Lycodes vahlii,127118,fish,Chordata,Actinopteri,Perciformes,Zoarcidae,Lycodes,Lycodes vahlii,Lycodes vahlii,0.00129,3.09,FB_Baysian_(Sub)family-body shape
+Merlucciidae,125473,fish,Chordata,Actinopteri,Gadiformes,Merlucciidae,NA,NA,Merlucciidae,0.0046,3.12,Mean_Species
+Mugilidae,125546,fish,Chordata,Actinopteri,Mugiliformes,Mugilidae,NA,NA,Mugilidae,0.010958288,2.995,Mean_Species
+Octopoda,11718,nekton,Mollusca,Cephalopoda,Octopoda,NA,NA,NA,Octopoda,NA,NA,NA
+Pandalidae,106789,macrobenthos,Arthropoda,Malacostraca,Decapoda,Pandalidae,NA,NA,Pandalidae,NA,NA,NA
+Pterycombus brama,126785,fish,Chordata,Actinopteri,Scombriformes,Bramidae,Pterycombus,Pterycombus brama,Pterycombus brama,0.01995,2.96,FB_Baysian_(Sub)family-body shape
+Rossia,138481,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Rossia,NA,Rossia,NA,NA,NA
+Rossia palpebrosa,153083,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Rossia,Rossia palpebrosa,Rossia palpebrosa,NA,NA,NA
+Salmo salar,127186,fish,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salmo,Salmo salar,Salmo salar,0.012,3,FishBase
+Sebastes,126175,fish,Chordata,Actinopteri,Perciformes,Sebastidae,Sebastes,NA,Sebastes,0.01663103,3.035667,Mean_Species
+Sepietta,138482,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Sepietta,NA,Sepietta,NA,NA,NA
+Sepietta neglecta,141450,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Sepietta,Sepietta neglecta,Sepietta neglecta,NA,NA,NA
+Soleidae,125581,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,NA,NA,Soleidae,0.008249801,3.097641667,Mean_Species
+Somniosus microcephalus,105919,fish,Chordata,Elasmobranchii,Squaliformes,Somniosidae,Somniosus,Somniosus microcephalus,Somniosus microcephalus,0.0065,3.24,FishBase
+Squalidae,105716,fish,Chordata,Elasmobranchii,Squaliformes,Squalidae,NA,NA,Squalidae,0.003436936,3.07,Mean_Species
+Stichaeidae,125566,fish,Chordata,Actinopteri,Perciformes,Stichaeidae,NA,NA,Stichaeidae,0.018719803,2.226666667,Mean_Species
+Thunnus thynnus,127029,fish,Chordata,Actinopteri,Scombriformes,Scombridae,Thunnus,Thunnus thynnus,Thunnus thynnus,0.0129,2.92,FishBase
+Todarodes,138281,nekton,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Todarodes,NA,Todarodes,NA,NA,NA
+Todaropsis,138282,nekton,Mollusca,Cephalopoda,Oegopsida,Ommastrephidae,Todaropsis,NA,Todaropsis,NA,NA,NA
+Trachipterus arcticus,126527,fish,Chordata,Actinopteri,Lampriformes,Trachipteridae,Trachipterus,Trachipterus arcticus,Trachipterus arcticus,0.00183,3,FishBase
+Trachyrincus murrayi,126481,fish,Chordata,Actinopteri,Gadiformes,Macrouridae,Trachyrincus,Trachyrincus murrayi,Trachyrincus murrayi,0.00102,3.06,FB_Baysian_Body shape
+Triglops,126154,fish,Chordata,Actinopteri,Perciformes,Cottidae,Triglops,NA,Triglops,0.02,2.74,Mean_Species
+Zeidae,125617,fish,Chordata,Actinopteri,Zeiformes,Zeidae,NA,NA,Zeidae,0.007948585,3.145,Mean_Species
+Zoarcidae,125575,fish,Chordata,Actinopteri,Perciformes,Zoarcidae,NA,NA,Zoarcidae,0.002182859,3.1175,Mean_Species
+Bathypolypus,138265,benthos,Mollusca,Cephalopoda,Octopoda,Bathypolypodidae,Bathypolypus,NA,Bathypolypus,NA,NA,NA
+Cetorhinus maximus,105837,fish,Chordata,Elasmobranchii,Lamniformes,Cetorhinidae,Cetorhinus,Cetorhinus maximus,Cetorhinus maximus,0.00389,3.12,FB_Baysian_Body shape
+Cottunculus microps,127235,fish,Chordata,Actinopteri,Perciformes,Psychrolutidae,Cottunculus,Cottunculus microps,Cottunculus microps,0.01239,3.13738,Scottish
+Eledone,138267,benthos,Mollusca,Cephalopoda,Octopoda,Eledonidae,Eledone,NA,Eledone,NA,NA,NA
+Gonatus,138036,nekton,Mollusca,Cephalopoda,Oegopsida,Gonatidae,Gonatus,NA,Gonatus,NA,NA,NA
+Icelus bicornis,127199,fish,Chordata,Actinopteri,Perciformes,Cottidae,Icelus,Icelus bicornis,Icelus bicornis,0.00661,3.17,FB_Baysian_(Sub)family-body shape
+Liparidae,234519,fish,Chordata,Actinopteri,Perciformes,Liparidae,NA,NA,Liparidae,0.018211497,2.955,Mean_Species
+Lithodidae,106737,macrobenthos,Arthropoda,Malacostraca,Decapoda,Lithodidae,NA,NA,Lithodidae,NA,NA,NA
+Lophiidae,125493,fish,Chordata,Actinopteri,Lophiiformes,Lophiidae,NA,NA,Lophiidae,0.02112817,2.885,Mean_Species
+Pandalus,107044,macrobenthos,Arthropoda,Malacostraca,Decapoda,Pandalidae,Pandalus,NA,Pandalus,NA,NA,NA
+Petromyzon,101169,fish,Chordata,Petromyzonti,Petromyzontiformes,Petromyzontidae,Petromyzon,NA,Petromyzon,3e-4,3.4,Mean_Species
+Portunidae,106763,macrobenthos,Arthropoda,Malacostraca,Decapoda,Portunidae,NA,NA,Portunidae,NA,NA,NA
+Rajella fyllae,105894,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Rajella,Rajella fyllae,Rajella fyllae,0.00484,3.001,Scottish
+Rhizostoma pulmo,135299,megaplankton,Cnidaria,Scyphozoa,Rhizostomeae,Rhizostomatidae,Rhizostoma,Rhizostoma pulmo,Rhizostoma pulmo,NA,NA,NA
+Sepiolida,11725,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,NA,NA,Sepiolidae,NA,NA,NA
+Crangon crangon,107552,macrobenthos,Arthropoda,Malacostraca,Decapoda,Crangonidae,Crangon,Crangon crangon,Crangon crangon,NA,NA,NA
+Echinocardium cordatum,124392,endobenthos,Echinodermata,Echinoidea,Spatangoida,Loveniidae,Echinocardium,Echinocardium cordatum,Echinocardium cordatum,NA,NA,NA
+Hyas,106903,benthos,Arthropoda,Malacostraca,Decapoda,Oregoniidae,Hyas,NA,Hyas,NA,NA,NA
+Hyas coarctatus,107323,benthos,Arthropoda,Malacostraca,Decapoda,Oregoniidae,Hyas,Hyas coarctatus,Hyas coarctatus,NA,NA,NA
+Lophius,125802,fish,Chordata,Actinopteri,Lophiiformes,Lophiidae,Lophius,NA,Lophius,0.02112817,2.885,Mean_Species
+Nephrops,106863,benthos,Arthropoda,Malacostraca,Decapoda,Nephropidae,Nephrops,NA,Nephrops,NA,NA,NA
+Salmonidae,125587,fish,Chordata,Actinopteri,Salmoniformes,Salmonidae,NA,NA,Salmonidae,NA,NA,NA
+Thyonidium,123503,benthos,Echinodermata,Holothuroidea,Dendrochirotida,Cucumariidae,Thyonidium,NA,Thyonidium,NA,NA,NA
+Dipturus nidarosiensis,105871,fish,Chordata,Elasmobranchii,Rajiformes,Rajidae,Dipturus,Dipturus nidarosiensis,Dipturus nidarosiensis,0.00295,3.21,FB_Baysian_(Sub)family-body shape
+Schedophilus medusophagus,126833,fish,Chordata,Actinopteri,Scombriformes,Centrolophidae,Schedophilus,Schedophilus medusophagus,Schedophilus medusophagus,0.01995,3.01,FB_Baysian_Body shape
+Alepocephalidae,125507,fish,Chordata,Actinopteri,Alepocephaliformes,Alepocephalidae,NA,NA,Alepocephalidae,0.003975519,3.116667,Mean_Species
+Alepocephalus bairdii,126682,fish,Chordata,Actinopteri,Alepocephaliformes,Alepocephalidae,Alepocephalus,Alepocephalus bairdii,Alepocephalus bairdii,0.0028,3.21,FishBase
+Alepocephalus rostratus,126684,fish,Chordata,Actinopteri,Alepocephaliformes,Alepocephalidae,Alepocephalus,Alepocephalus rostratus,Alepocephalus rostratus,0.0034,3.14,FishBase
+Ancistroteuthis lichtensteinii,140647,nekton,Mollusca,Cephalopoda,Oegopsida,Onychoteuthidae,Ancistroteuthis,Ancistroteuthis lichtensteinii,Ancistroteuthis lichtensteinii,NA,NA,NA
+Anoplogaster cornuta,126393,fish,Chordata,Actinopteri,Trachichthyiformes,Anoplogastridae,Anoplogaster,Anoplogaster cornuta,Anoplogaster cornuta,NA,NA,NA
+Argyropelecus gigas,127308,fish,Chordata,Actinopteri,Stomiiformes,Sternoptychidae,Argyropelecus,Argyropelecus gigas,Argyropelecus gigas,0.0182,3,FB_Baysian_(Sub)family-body shape
+Astronesthes niger,127328,fish,Chordata,Actinopteri,Stomiiformes,Stomiidae,Astronesthes,Astronesthes niger,Astronesthes niger,NA,NA,NA
+Bellottia apoda,126654,fish,Chordata,Actinopteri,Ophidiiformes,Bythitidae,Bellottia,Bellottia apoda,Bellottia apoda,0.01122,3.04,FB_Baysian_Body shape
+Cataetyx alleni,126656,fish,Chordata,Actinopteri,Ophidiiformes,Bythitidae,Cataetyx,Cataetyx alleni,Cataetyx alleni,0.00389,3.12,FB_Baysian_Body shape
+Chaceon affinis,107369,benthos,Arthropoda,Malacostraca,Decapoda,Geryonidae,Chaceon,Chaceon affinis,Chaceon affinis,NA,NA,NA
+Chauliodus sloani,127338,fish,Chordata,Actinopteri,Stomiiformes,Stomiidae,Chauliodus,Chauliodus sloani,Chauliodus sloani,9e-4,3.18,FishBase
+Chirostomias pliopterus,127339,fish,Chordata,Actinopteri,Stomiiformes,Stomiidae,Chirostomias,Chirostomias pliopterus,Chirostomias pliopterus,0.00389,3.12,FB_Baysian_Body shape
+Diretmus argenteus,126398,fish,Chordata,Actinopteri,Trachichthyiformes,Diretmidae,Diretmus,Diretmus argenteus,Diretmus argenteus,0.01995,3.01,FB_Baysian_Body shape
+Echiostoma barbatum,127340,fish,Chordata,Actinopteri,Stomiiformes,Stomiidae,Echiostoma,Echiostoma barbatum,Echiostoma barbatum,0.00389,3.12,FB_Baysian_Body shape
+Electrona risso,126600,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Electrona,Electrona risso,Electrona risso,0.00389,3.12,FB_Baysian_(Sub)family-body shape
+Evermannella balbo,126338,fish,Chordata,Actinopteri,Aulopiformes,Evermannellidae,Evermannella,Evermannella balbo,Evermannella balbo,0.00417,3.12,FB_Baysian_(Sub)family-body shape
+Guttigadus latifrons,158978,fish,Chordata,Actinopteri,Gadiformes,Moridae,Guttigadus,Guttigadus latifrons,Guttigadus latifrons,0.0038,3.12,FB_Baysian_(Sub)family-body shape
+Histioteuthis bonnellii,140111,nekton,Mollusca,Cephalopoda,Oegopsida,Histioteuthidae,Histioteuthis,Histioteuthis bonnellii,Histioteuthis bonnellii,NA,NA,NA
+Howella brodiei,126994,fish,Chordata,Actinopteri,Acropomatiformes,Howellidae,Howella,Howella brodiei,Howella brodiei,0.01122,3.04,FB_Baysian_Body shape
+Hydrolagus mirabilis,105826,fish,Chordata,Holocephali,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus mirabilis,Hydrolagus mirabilis,0.00309,3.11,FB_Baysian_(Sub)family-body shape
+Lampanyctus photonotus,126618,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lampanyctus,Lampanyctus photonotus,Lampanyctus photonotus,0.00537,3.08,FB_Baysian_(Sub)family-body shape
+Magnisudis atlantica,126359,fish,Chordata,Actinopteri,Aulopiformes,Paralepididae,Magnisudis,Magnisudis atlantica,Magnisudis atlantica,0.00324,3.08,FB_Baysian_(Sub)family-body shape
+Melamphaes,126181,fish,Chordata,Actinopteri,Beryciformes,Melamphaidae,Melamphaes,NA,Melamphaes,NA,NA,NA
+Melanonus zugmayeri,126483,fish,Chordata,Actinopteri,Gadiformes,Melanonidae,Melanonus,Melanonus zugmayeri,Melanonus zugmayeri,0.00389,3.12,FB_Baysian_Body shape
+Melanostigma atlanticum,127120,fish,Chordata,Actinopteri,Perciformes,Zoarcidae,Melanostigma,Melanostigma atlanticum,Melanostigma atlanticum,NA,NA,NA
+Melanostomias bartonbeani,127359,fish,Chordata,Actinopteri,Stomiiformes,Stomiidae,Melanostomias,Melanostomias bartonbeani,Melanostomias bartonbeani,0.00389,3.12,FB_Baysian_Body shape
+Monomitopus metriostoma,126674,fish,Chordata,Actinopteri,Ophidiiformes,Ophidiidae,Monomitopus,Monomitopus metriostoma,Monomitopus metriostoma,NA,NA,NA
+Nansenia,125893,fish,Chordata,Actinopteri,Argentiniformes,Microstomatidae,Nansenia,NA,Nansenia,0.00389,3.12,Mean_Species
+Nansenia tenera,126729,fish,Chordata,Actinopteri,Argentiniformes,Microstomatidae,Nansenia,Nansenia tenera,Nansenia tenera,0.00389,3.12,FB_Baysian_Body shape
+Neoscopelus macrolepidotus,126634,fish,Chordata,Actinopteri,Myctophiformes,Neoscopelidae,Neoscopelus,Neoscopelus macrolepidotus,Neoscopelus macrolepidotus,NA,NA,NA
+Nesiarchus nasutus,126865,fish,Chordata,Actinopteri,Scombriformes,Gempylidae,Nesiarchus,Nesiarchus nasutus,Nesiarchus nasutus,0.00398,3.11,FB_Baysian_(Sub)family-body shape
+Nessorhamphus ingolfianus,126292,fish,Chordata,Actinopteri,Anguilliformes,Derichthyidae,Nessorhamphus,Nessorhamphus ingolfianus,Nessorhamphus ingolfianus,0.00102,3.06,FB_Baysian_Body shape
+Octopoteuthis,138271,nekton,Mollusca,Cephalopoda,Oegopsida,Octopoteuthidae,Octopoteuthis,NA,Octopoteuthis,NA,NA,NA
+Oxynotus paradoxus,105915,fish,Chordata,Elasmobranchii,Squaliformes,Oxynotidae,Oxynotus,Oxynotus paradoxus,Oxynotus paradoxus,0.00389,3.12,FB_Baysian_Body shape
+Paraliparis membranaceus,127228,fish,Chordata,Actinopteri,Perciformes,Liparidae,Paraliparis,Paraliparis membranaceus,Paraliparis membranaceus,0.01,3.04,FB_Baysian_body shape
+Parasudis fraserbrunneri,275832,fish,Chordata,Actinopteri,Aulopiformes,Chlorophthalmidae,Parasudis,Parasudis fraserbrunneri,Parasudis fraserbrunneri,0.00389,3.15,FB_Baysian_(Sub)family-body shape
+Paromola cuvieri,107264,macrobenthos,Arthropoda,Malacostraca,Decapoda,Homolidae,Paromola,Paromola cuvieri,Paromola cuvieri,NA,NA,NA
+Poromitra capito,127272,fish,Chordata,Actinopteri,Beryciformes,Melamphaidae,Poromitra,Poromitra capito,Poromitra capito,0.01023,3.04,FB_Baysian_(Sub)family-body shape
+Sagamichthys schnakenbecki,126748,fish,Chordata,Actinopteri,Alepocephaliformes,Platytroctidae,Sagamichthys,Sagamichthys schnakenbecki,Sagamichthys schnakenbecki,0.00389,3.12,FB_Baysian_Body shape
+Searsia koefoedi,126749,fish,Chordata,Actinopteri,Alepocephaliformes,Platytroctidae,Searsia,Searsia koefoedi,Searsia koefoedi,0.01,3.04,FB_Baysian_Body shape
+Serrivomer beanii,126319,fish,Chordata,Actinopteri,Anguilliformes,Serrivomeridae,Serrivomer,Serrivomer beanii,Serrivomer beanii,0.00102,3.06,FB_Baysian_Body shape
+Sigmops bathyphilus,398363,fish,Chordata,Actinopteri,Stomiiformes,Gonostomatidae,Sigmops,Sigmops bathyphilus,Sigmops bathyphilus,0.00363,3.07,FB_Baysian_(Sub)family-body shape
+Taonius pavo,139428,nekton,Mollusca,Cephalopoda,Oegopsida,Cranchiidae,Taonius,Taonius pavo,Taonius pavo,NA,NA,NA
+Trachipterus trachypterus,126528,fish,Chordata,Actinopteri,Lampriformes,Trachipteridae,Trachipterus,Trachipterus trachypterus,Trachipterus trachypterus,0.00102,3.06,FB_Baysian_Body shape
+Urophycis chuss,126503,fish,Chordata,Actinopteri,Gadiformes,Phycidae,Urophycis,Urophycis chuss,Urophycis chuss,0.01245,3,FishBase
+Notolepis_rissoi,126352,fish,Chordata,Actinopteri,Aulopiformes,Paralepididae,Arctozenus,Arctozenus risso,Arctozenus risso,0.00324,3.08,FB_Baysian_(Sub)family-body shape
+Torpedo_nobiliana,321911,fish,Chordata,Elasmobranchii,Torpediniformes,Torpedinidae,Tetronarce,Tetronarce nobiliana,Tetronarce nobiliana,0.0672,2.926,FishBase
+Gennadas_elegans,107095,macroplankton,Arthropoda,Malacostraca,Decapoda,Benthesicymidae,Gennadas,Gennadas elegans,Gennadas elegans,NA,NA,NA
+Macropodia_longipes,107346,benthos,Arthropoda,Malacostraca,Decapoda,Inachidae,Macropodia,Macropodia tenuirostris,Macropodia tenuirostris,NA,NA,NA
+Munida_rutllanti,107164,macrobenthos,Arthropoda,Malacostraca,Decapoda,Munididae,Munida,Munida speciosa,Munida speciosa,NA,NA,NA
+Pisces,11676,NA,Chordata,NA,NA,NA,NA,NA,Chordata,NA,NA,NA
+Processa_nouveli nouveli,107689,macrobenthos,Arthropoda,Malacostraca,Decapoda,Processidae,Processa,Processa nouveli,Processa nouveli,NA,NA,NA
+Rochinia_carpenteri,836053,benthos,Arthropoda,Malacostraca,Decapoda,Epialtidae,Scyramathia,Scyramathia carpenteri,Scyramathia carpenteri,NA,NA,NA
+Sergia_japonica,377752,zooplankton,Arthropoda,Malacostraca,Decapoda,Sergestidae,Sergia,Sergia remipes,Sergia remipes,NA,NA,NA
+Sergia_robusta,1056517,zooplankton,Arthropoda,Malacostraca,Decapoda,Sergestidae,Robustosergia,Robustosergia robusta,Robustosergia robusta,NA,NA,NA
+Holothuria_arguinensis,125184,benthos,Echinodermata,Holothuroidea,Holothuriida,Holothuriidae,Holothuria,Holothuria (Roweothuria) arguinensis,Holothuria (Roweothuria) arguinensis,NA,NA,NA
+Nettastoma_melanurum,126308,NA,Chordata,Actinopteri,Anguilliformes,Nettastomatidae,Nettastoma,Nettastoma melanurum,Nettastoma melanurum,8.1e-4,3.02,FB_Baysian_(Sub)family-body shape
+Dasyatis_centroura,1017389,fish,Chordata,Elasmobranchii,Myliobatiformes,Dasyatidae,Bathytoshia,Bathytoshia centroura,Bathytoshia centroura,NA,NA,NA
+Facciolella_oxyrhyncha,126307,fish,Chordata,Actinopteri,Anguilliformes,Nettastomatidae,Facciolella,Facciolella oxyrhynchus,Facciolella oxyrhynchus,8.1e-4,3.02,FB_Baysian_(Sub)family-body shape
+Pteromylaeus_bovinus,871951,fish,Chordata,Elasmobranchii,Myliobatiformes,Myliobatidae,Aetomylaeus,Aetomylaeus bovinus,Aetomylaeus bovinus,0.0182,3,FB_Baysian_(Sub)family-body shape
+Cepola_rubescens,126835,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Cepolidae,Cepola,Cepola macrophthalma,Cepola macrophthalma,0.0186,2.02,FishBase
+Loligo_subulata,153131,nekton,Mollusca,Cephalopoda,Myopsida,Loliginidae,Alloteuthis,Alloteuthis subulata,Alloteuthis subulata,NA,NA,NA
+Chlamys_opercularis,140687,benthos,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten,Aequipecten opercularis,Aequipecten opercularis,NA,NA,NA
+Acanthascus_mirabilis,465693,megabenthos,Porifera,Hexactinellida,Lyssacinosida,Rossellidae,Rhabdocalyptus,Rhabdocalyptus mirabilis,Rhabdocalyptus mirabilis,NA,NA,NA
+Sebastes_marinus,151324,fish,Chordata,Actinopteri,Perciformes,Sebastidae,Sebastes,Sebastes norvegicus,Sebastes norvegicus,0.02,2.95,MS-S
+Clathria_tenuifibra,167656,macrobenthos,Porifera,Demospongiae,Poecilosclerida,Microcionidae,Clathria,Clathria (Microciona) leighensis,Clathria (Microciona) leighensis,NA,NA,NA
+Sepiola_ligulata,1437787,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Adinaefiola,Adinaefiola ligulata,Adinaefiola ligulata,NA,NA,NA
+Sepiola_pfefferi,1437789,benthos,Mollusca,Cephalopoda,Sepiida,Sepiolidae,Adinaefiola,Adinaefiola pfefferi,Adinaefiola pfefferi,NA,NA,NA
+Teuthida,11716,nekton,Mollusca,Cephalopoda,Teuthida,NA,NA,NA,Teuthida,NA,NA,NA
+Centroselachus_crepidater,105908,fish,Chordata,Elasmobranchii,Squaliformes,Somniosidae,Centroscymnus,Centroscymnus crepidater,Centroscymnus crepidater,0.0024,3.25,FishBase
+Diplecogaster bimaculata,126513,fish,Chordata,Actinopteri,Gobiesociformes,Gobiesocidae,Diplecogaster,Diplecogaster bimaculata,Diplecogaster bimaculata,0.02,2.91,MS-S
+Zeugopterus norvegicus,293018,fish,Chordata,Actinopteri,Pleuronectiformes,Scophthalmidae,Zeugopterus,Zeugopterus norvegicus,Zeugopterus norvegicus,0.01339067,3.1756,from Zeugopterus spp
+Diplodus cervinus,127051,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Diplodus,Diplodus cervinus,Diplodus cervinus,0.0116,3.14,FishBase
+Diplodus sargus,127053,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Diplodus,Diplodus sargus,Diplodus sargus,0.01,3.12,FishBase
+Hoplostethus mediterraneus,126404,fish,Chordata,Actinopteri,Trachichthyiformes,Trachichthyidae,Hoplostethus,Hoplostethus mediterraneus,Hoplostethus mediterraneus,0.0153,3.0712,FishBase
+Lestidiops jayakari,126354,fish,Chordata,Actinopteri,Aulopiformes,Paralepididae,Lestidiops,Lestidiops jayakari,Lestidiops jayakari,0.00128,2.928,FishBase
+Stomias boa,127374,fish,Chordata,Actinopteri,Stomiiformes,Stomiidae,Stomias,Stomias boa,Stomias boa,0.00229,3.16,FB_Baysian_(Sub)family-body shape
+Trachyscorpia cristulata,127256,fish,Chordata,Actinopteri,Perciformes,Sebastidae,Trachyscorpia,Trachyscorpia cristulata,Trachyscorpia cristulata,0.00912,3.1,FB_Baysian_(Sub)family-body shape
+Liparis liparis,127219,fish,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,Liparis liparis,Liparis liparis,0.0302,3,FishBase
+Gasterosteus aculeatus,126505,fish,Chordata,Actinopteri,Perciformes,Gasterosteidae,Gasterosteus,Gasterosteus aculeatus,Gasterosteus aculeatus,0.0105,3.049,FishBase
+Scomberesox saurus,126392,fish,Chordata,Actinopteri,Beloniformes,Scomberesocidae,Scomberesox,Scomberesox saurus,Scomberesox saurus,0.0015,3.193,FishBase
+Auxis_rochei rochei,127015,fish,Chordata,Actinopteri,Scombriformes,Scombridae,Auxis,Auxis rochei,Auxis rochei,0.0081,3.2,FishBase
+Mullus_barbatus barbatus,126985,fish,Chordata,Actinopteri,Mulliformes,Mullidae,Mullus,Mullus barbatus,Mullus barbatus,0.0087,3.11,FishBase
+Salmo_trutta trutta,127187,fish,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salmo,Salmo trutta,Salmo trutta,0.01,3.03,FishBase
+Diplecogaster,125779,fish,Chordata,Actinopteri,Gobiesociformes,Gobiesocidae,Diplecogaster,NA,Diplecogaster,0.02,2.91,MS-S
+Gobius auratus,126884,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Gobius,Gobius auratus,Gobius auratus,0.01081637,3.0725,Mean_Species
+Dasyatis tortonesei,105852,fish,Chordata,Elasmobranchii,Myliobatiformes,Dasyatidae,Dasyatis,Dasyatis tortonesei,Dasyatis tortonesei,0.0091,3.03,FishBase
+Chelidonichthys lastoviza,127261,fish,Chordata,Actinopteri,Perciformes,Triglidae,Chelidonichthys,Chelidonichthys lastoviza,Chelidonichthys lastoviza,0.006901566,3.115333,Mean_Species
+Epigonus,125967,fish,Chordata,Actinopteri,Acropomatiformes,Epigonidae,Epigonus,NA,Epigonus,0.0045,3.26,FishBase
+Microchirus theophila,274303,fish,Chordata,Actinopteri,Pleuronectiformes,Soleidae,Microchirus,Microchirus theophila,Microchirus theophila,0.01105173,3.03,Mean_Species
+Remora brachyptera,126851,fish,Chordata,Actinopteri,Carangiformes,Echeneidae,Remora,Remora brachyptera,Remora brachyptera,0.007528721,3.03837037,Modelled_Order
+Benthodesmus simonyi,127087,fish,Chordata,Actinopteri,Scombriformes,Trichiuridae,Benthodesmus,Benthodesmus simonyi,Benthodesmus simonyi,4.8e-5,3.42,FishBase
+Lesueurigobius suerii,126907,fish,Chordata,Actinopteri,Gobiiformes,Gobiidae,Lesueurigobius,Lesueurigobius suerii,Lesueurigobius suerii,0.006445152,3.0805,Mean_Species
+Notoscopelus bolini,158913,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Notoscopelus,Notoscopelus bolini,Notoscopelus bolini,0.01161034,3,Mean_Species
+Enchelyopus,125742,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Enchelyopus,NA,Enchelyopus,0.0035,3.106,FishBase
+Atherina,125659,fish,Chordata,Actinopteri,Atheriniformes,Atherinidae,Atherina,NA,Atherina,0.0045,3.18,FishBase
+Ciliata,125741,fish,Chordata,Actinopteri,Gadiformes,Lotidae,Ciliata,NA,Ciliata,0.0027,3.19,MS-S
+Notacanthus,125840,fish,Chordata,Actinopteri,Notacanthiformes,Notacanthidae,Notacanthus,NA,Notacanthus,0.0012,3.06,FishBase
+Poromitra crassiceps,127273,fish,Chordata,Actinopteri,Beryciformes,Melamphaidae,Poromitra,Poromitra crassiceps,Poromitra crassiceps,0.01023,3.04,FB_Baysian_(Sub)family-body shape
+Liza_ramada,1042830,fish,Chordata,Actinopteri,Mugiliformes,Mugilidae,Chelon,Chelon ramada,Chelon ramada,0.0083,3.14,FishBase
+Diplodus_sargus sargus,127053,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Diplodus,Diplodus sargus,Diplodus sargus,0.0123,3.14,FishBase
+Engraulis_albidus,1575775,fish,Chordata,Actinopteri,Clupeiformes,Engraulidae,Engraulis,Engraulis maeoticus,Engraulis maeoticus,0.0056,3.05,Mean_Species
+Hoplostethus_mediterraneus mediterraneus,126404,fish,Chordata,Actinopteri,Trachichthyiformes,Trachichthyidae,Hoplostethus,Hoplostethus mediterraneus,Hoplostethus mediterraneus,0.0603,2.82,FishBase
+Scomberesox_saurus saurus,126392,fish,Chordata,Actinopteri,Beloniformes,Scomberesocidae,Scomberesox,Scomberesox saurus,Scomberesox saurus,0.0015,3.193,FishBase
+Stomias_boa boa,127374,fish,Chordata,Actinopteri,Stomiiformes,Stomiidae,Stomias,Stomias boa,Stomias boa,0.00229,3.16,Mean_Species
+Trachyscorpia_cristulata echinata,127256,fish,Chordata,Actinopteri,Perciformes,Sebastidae,Trachyscorpia,Trachyscorpia cristulata,Trachyscorpia cristulata,0.00912,3.1,FB_Baysian_(Sub)family-body shape
+Gasterosteus_aculeatus aculeatus,126505,fish,Chordata,Actinopteri,Perciformes,Gasterosteidae,Gasterosteus,Gasterosteus aculeatus,Gasterosteus aculeatus,0.0105,3.049,FishBase
+Liparis_liparis liparis,127219,fish,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,Liparis liparis,Liparis liparis,0.02457642,2.955,Mean_Species
+Lepadogaster_candollei,272526,fish,Chordata,Actinopteri,Gobiesociformes,Gobiesocidae,Lepadogaster,Lepadogaster candolii,Lepadogaster candolii,0.0287,3,Mean_Species
+Gonostoma_elongatum,221512,fish,Chordata,Actinopteri,Stomiiformes,Gonostomatidae,Sigmops,Sigmops elongatus,Sigmops elongatus,0.00363,3.07,FB_Baysian_(Sub)family-body shape
+Lampadena_urophaos atlantica,713102,fish,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lampadena,Lampadena atlantica,Lampadena atlantica,0.01,2.98,FishBase
+Epigonus constanciae,126856,fish,Chordata,Actinopteri,Acropomatiformes,Epigonidae,Epigonus,Epigonus constanciae,Epigonus constanciae,0.0045,3.26,FishBase
+Trigloporus_lastoviza,127261,fish,Chordata,Actinopteri,Perciformes,Triglidae,Chelidonichthys,Chelidonichthys lastoviza,Chelidonichthys lastoviza,0.006901566,3.115333,Mean_Species
+Diplodus_cervinus cervinus,127051,fish,Chordata,Actinopteri,Eupercaria incertae sedis,Sparidae,Diplodus,Diplodus cervinus,Diplodus cervinus,0.0123,3.14,FishBase
+Liza_aurata,1044127,fish,Chordata,Actinopteri,Mugiliformes,Mugilidae,Chelon,Chelon auratus,Chelon auratus,0.0083,3.14,FishBase
+Diplecogaster_bimaculata bimaculata,126513,fish,Chordata,Actinopteri,Gobiesociformes,Gobiesocidae,Diplecogaster,Diplecogaster bimaculata,Diplecogaster bimaculata,0.02,2.91,MS-S
