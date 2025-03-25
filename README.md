@@ -103,12 +103,15 @@ Webb, T. J., & Vanhoorne, B. (2020). Linking dimensions of data on global marine
 
 This product should be cited as:
 
-Thompson, M.S.A. (2025). Biomass-Weighted Fish Functional Feeding Traits for the Northeast Atlantic (1997-2020). Integrated data products created under the European Marine Observation Data Network (EMODnet) Biology project CINEA/EMFAF/2022/3.5.2/SI2.895681, funded by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund.
+Thompson, M.S.A. & Collingridge, K. (2025). Biomass-Weighted Fish Functional Feeding Traits for the Northeast Atlantic (1997-2020). Integrated data products created under the European Marine Observation Data Network (EMODnet) Biology project CINEA/EMFAF/2022/3.5.2/SI2.895681, funded by the European Union under Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund.
 
 Available to download in:
 
-{{link_download}}
+Data: https://erddap.emodnet.eu/erddap/files/biology_9774_06d4_3b77_34fa/fish_functional_traits.nc
+Metadata: https://emodnet.ec.europa.eu/geonetwork/srv/eng/catalog.search#/metadata/6d617269-6e65-696e-666f-000000008774
+Viewer: is https://emodnet.ec.europa.eu/geoviewer/?layers=6d617269-6e65-696e-666f-000000008774:1:1&basemap=ebwbl&active=14162&bounds=-3951182.3440919546,5054282.709174126,2779203.24873914,9296761.440409869&filters=&projection=EPSG:3857
+
 
 ### Authors
 
-Murray S.A. Thompson
+Murray S.A. Thompson and Kate Collingridge
