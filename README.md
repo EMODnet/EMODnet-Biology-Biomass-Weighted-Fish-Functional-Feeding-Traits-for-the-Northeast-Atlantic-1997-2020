@@ -97,7 +97,7 @@ Webb, T. J., & Vanhoorne, B. (2020). Linking dimensions of data on global marine
 
 ### Code and methodology
 
-{{[link_code](https://github.com/MurraySAThompson/EMODnet-Biology-Biomass-Weighted-Fish-Functional-Feeding-Traits-for-the-Northeast-Atlantic-1997-2020/blob/master/scripts/Estimating%20Biomass-Weighted%20Fish%20Functional%20Feeding%20Traits.R)}}
+[link_code](https://github.com/MurraySAThompson/EMODnet-Biology-Biomass-Weighted-Fish-Functional-Feeding-Traits-for-the-Northeast-Atlantic-1997-2020/blob/master/scripts/Estimating%20Biomass-Weighted%20Fish%20Functional%20Feeding%20Traits.R)
 
 ### Citation and download link
 
